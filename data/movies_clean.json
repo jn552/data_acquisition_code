@@ -1,0 +1,7758 @@
+[
+  {
+    "id":354912,
+    "title":"Coco",
+    "vote_avg":8.207,
+    "vote_count":21799,
+    "directors":[
+      "Lee Unkrich"
+    ],
+    "release_date":"2017-10-27",
+    "runtime_minutes":105,
+    "genres":[
+      "Family",
+      "Animation",
+      "Music",
+      "Adventure"
+    ],
+    "franchise":"Coco Collection",
+    "franchise_id":1451578.0,
+    "popularity":261.2047,
+    "budget":175000000,
+    "revenue":814641172,
+    "release_year":"2017",
+    "profit":639641172
+  },
+  {
+    "id":335984,
+    "title":"Blade Runner 2049",
+    "vote_avg":7.613,
+    "vote_count":15967,
+    "directors":[
+      "Denis Villeneuve"
+    ],
+    "release_date":"2017-10-04",
+    "runtime_minutes":164,
+    "genres":[
+      "Science Fiction",
+      "Drama"
+    ],
+    "franchise":"Blade Runner Collection",
+    "franchise_id":422837.0,
+    "popularity":33.959,
+    "budget":150000000,
+    "revenue":259239658,
+    "release_year":"2017",
+    "profit":109239658
+  },
+  {
+    "id":315635,
+    "title":"Spider-Man: Homecoming",
+    "vote_avg":7.332,
+    "vote_count":24193,
+    "directors":[
+      "Jon Watts"
+    ],
+    "release_date":"2017-07-05",
+    "runtime_minutes":133,
+    "genres":[
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "franchise":"Spider-Man (MCU) Collection",
+    "franchise_id":531241.0,
+    "popularity":31.0132,
+    "budget":175000000,
+    "revenue":880978185,
+    "release_year":"2017",
+    "profit":705978185
+  },
+  {
+    "id":419430,
+    "title":"Get Out",
+    "vote_avg":7.6,
+    "vote_count":19603,
+    "directors":[
+      "Jordan Peele"
+    ],
+    "release_date":"2017-02-24",
+    "runtime_minutes":104,
+    "genres":[
+      "Mystery",
+      "Thriller",
+      "Horror"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":21.6536,
+    "budget":4500000,
+    "revenue":255407969,
+    "release_year":"2017",
+    "profit":250907969
+  },
+  {
+    "id":181808,
+    "title":"Star Wars: The Last Jedi",
+    "vote_avg":6.73,
+    "vote_count":16846,
+    "directors":[
+      "Rian Johnson"
+    ],
+    "release_date":"2017-12-13",
+    "runtime_minutes":152,
+    "genres":[
+      "Adventure",
+      "Action",
+      "Science Fiction"
+    ],
+    "franchise":"Star Wars Collection",
+    "franchise_id":10.0,
+    "popularity":21.4115,
+    "budget":300000000,
+    "revenue":1334407706,
+    "release_year":"2017",
+    "profit":1034407706
+  },
+  {
+    "id":346364,
+    "title":"It",
+    "vote_avg":7.24,
+    "vote_count":20864,
+    "directors":[
+      "Andy Muschietti"
+    ],
+    "release_date":"2017-09-06",
+    "runtime_minutes":135,
+    "genres":[
+      "Horror",
+      "Thriller",
+      "Drama"
+    ],
+    "franchise":"It Collection",
+    "franchise_id":477962.0,
+    "popularity":20.9459,
+    "budget":35000000,
+    "revenue":719766009,
+    "release_year":"2017",
+    "profit":684766009
+  },
+  {
+    "id":283995,
+    "title":"Guardians of the Galaxy Vol. 2",
+    "vote_avg":7.608,
+    "vote_count":23700,
+    "directors":[
+      "James Gunn"
+    ],
+    "release_date":"2017-04-25",
+    "runtime_minutes":137,
+    "genres":[
+      "Science Fiction",
+      "Adventure",
+      "Action"
+    ],
+    "franchise":"Guardians of the Galaxy Collection",
+    "franchise_id":284433.0,
+    "popularity":20.8207,
+    "budget":200000000,
+    "revenue":863756051,
+    "release_year":"2017",
+    "profit":663756051
+  },
+  {
+    "id":284053,
+    "title":"Thor: Ragnarok",
+    "vote_avg":7.578,
+    "vote_count":22725,
+    "directors":[
+      "Taika Waititi"
+    ],
+    "release_date":"2017-10-24",
+    "runtime_minutes":131,
+    "genres":[
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Science Fiction"
+    ],
+    "franchise":"Thor Collection",
+    "franchise_id":131296.0,
+    "popularity":20.7241,
+    "budget":180000000,
+    "revenue":855301806,
+    "release_year":"2017",
+    "profit":675301806
+  },
+  {
+    "id":263115,
+    "title":"Logan",
+    "vote_avg":7.823,
+    "vote_count":21044,
+    "directors":[
+      "James Mangold"
+    ],
+    "release_date":"2017-02-28",
+    "runtime_minutes":137,
+    "genres":[
+      "Action",
+      "Drama",
+      "Science Fiction"
+    ],
+    "franchise":"The Wolverine Collection",
+    "franchise_id":453993.0,
+    "popularity":19.9524,
+    "budget":97000000,
+    "revenue":619021436,
+    "release_year":"2017",
+    "profit":522021436
+  },
+  {
+    "id":398818,
+    "title":"Call Me by Your Name",
+    "vote_avg":8.1,
+    "vote_count":13034,
+    "directors":[
+      "Luca Guadagnino"
+    ],
+    "release_date":"2017-10-01",
+    "runtime_minutes":132,
+    "genres":[
+      "Romance",
+      "Drama"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":18.1871,
+    "budget":3500000,
+    "revenue":43143046,
+    "release_year":"2017",
+    "profit":39643046
+  },
+  {
+    "id":47971,
+    "title":"xXx: Return of Xander Cage",
+    "vote_avg":6.124,
+    "vote_count":9375,
+    "directors":[
+      "D.J. Caruso"
+    ],
+    "release_date":"2017-01-13",
+    "runtime_minutes":107,
+    "genres":[
+      "Action",
+      "Adventure",
+      "Crime"
+    ],
+    "franchise":"xXx Collection",
+    "franchise_id":52785.0,
+    "popularity":18.6625,
+    "budget":85000000,
+    "revenue":346118277,
+    "release_year":"2017",
+    "profit":261118277
+  },
+  {
+    "id":321612,
+    "title":"Beauty and the Beast",
+    "vote_avg":7.0,
+    "vote_count":16291,
+    "directors":[
+      "Bill Condon"
+    ],
+    "release_date":"2017-03-16",
+    "runtime_minutes":129,
+    "genres":[
+      "Family",
+      "Fantasy",
+      "Romance"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":16.7189,
+    "budget":160000000,
+    "revenue":1266115964,
+    "release_year":"2017",
+    "profit":1106115964
+  },
+  {
+    "id":293167,
+    "title":"Kong: Skull Island",
+    "vote_avg":6.559,
+    "vote_count":11459,
+    "directors":[
+      "Jordan Vogt-Roberts"
+    ],
+    "release_date":"2017-03-08",
+    "runtime_minutes":118,
+    "genres":[
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "franchise":"Godzilla x Kong Collection",
+    "franchise_id":1539140.0,
+    "popularity":18.4247,
+    "budget":185000000,
+    "revenue":566652812,
+    "release_year":"2017",
+    "profit":381652812
+  },
+  {
+    "id":324552,
+    "title":"John Wick: Chapter 2",
+    "vote_avg":7.347,
+    "vote_count":14813,
+    "directors":[
+      "Chad Stahelski"
+    ],
+    "release_date":"2017-02-08",
+    "runtime_minutes":122,
+    "genres":[
+      "Action",
+      "Thriller",
+      "Crime"
+    ],
+    "franchise":"John Wick Collection",
+    "franchise_id":404609.0,
+    "popularity":17.3189,
+    "budget":40000000,
+    "revenue":171539887,
+    "release_year":"2017",
+    "profit":131539887
+  },
+  {
+    "id":260514,
+    "title":"Cars 3",
+    "vote_avg":6.865,
+    "vote_count":6679,
+    "directors":[
+      "Brian Fee"
+    ],
+    "release_date":"2017-06-15",
+    "runtime_minutes":102,
+    "genres":[
+      "Animation",
+      "Drama",
+      "Family",
+      "Adventure"
+    ],
+    "franchise":"Cars Collection",
+    "franchise_id":87118.0,
+    "popularity":15.4986,
+    "budget":175000000,
+    "revenue":383925276,
+    "release_year":"2017",
+    "profit":208925276
+  },
+  {
+    "id":126889,
+    "title":"Alien: Covenant",
+    "vote_avg":6.193,
+    "vote_count":9794,
+    "directors":[
+      "Ridley Scott"
+    ],
+    "release_date":"2017-05-09",
+    "runtime_minutes":122,
+    "genres":[
+      "Horror",
+      "Science Fiction"
+    ],
+    "franchise":"Prometheus Collection",
+    "franchise_id":135416.0,
+    "popularity":15.1901,
+    "budget":97000000,
+    "revenue":240891763,
+    "release_year":"2017",
+    "profit":143891763
+  },
+  {
+    "id":353486,
+    "title":"Jumanji: Welcome to the Jungle",
+    "vote_avg":6.823,
+    "vote_count":14913,
+    "directors":[
+      "Jake Kasdan"
+    ],
+    "release_date":"2017-12-20",
+    "runtime_minutes":119,
+    "genres":[
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "franchise":"Jumanji Collection",
+    "franchise_id":495527.0,
+    "popularity":14.7224,
+    "budget":90000000,
+    "revenue":995339117,
+    "release_year":"2017",
+    "profit":905339117
+  },
+  {
+    "id":281338,
+    "title":"War for the Planet of the Apes",
+    "vote_avg":7.227,
+    "vote_count":10081,
+    "directors":[
+      "Matt Reeves"
+    ],
+    "release_date":"2017-07-11",
+    "runtime_minutes":140,
+    "genres":[
+      "Drama",
+      "Science Fiction",
+      "War"
+    ],
+    "franchise":"Planet of the Apes (Reboot) Collection",
+    "franchise_id":173710.0,
+    "popularity":14.7091,
+    "budget":150000000,
+    "revenue":490719763,
+    "release_year":"2017",
+    "profit":340719763
+  },
+  {
+    "id":141052,
+    "title":"Justice League",
+    "vote_avg":6.063,
+    "vote_count":14087,
+    "directors":[
+      "Zack Snyder"
+    ],
+    "release_date":"2017-11-15",
+    "runtime_minutes":120,
+    "genres":[
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":14.6223,
+    "budget":300000000,
+    "revenue":661326987,
+    "release_year":"2017",
+    "profit":361326987
+  },
+  {
+    "id":166426,
+    "title":"Pirates of the Caribbean: Dead Men Tell No Tales",
+    "vote_avg":6.665,
+    "vote_count":13203,
+    "directors":[
+      "Espen Sandberg",
+      "Joachim R\u00f8nning"
+    ],
+    "release_date":"2017-05-23",
+    "runtime_minutes":129,
+    "genres":[
+      "Adventure",
+      "Action",
+      "Fantasy"
+    ],
+    "franchise":"Pirates of the Caribbean Collection",
+    "franchise_id":295.0,
+    "popularity":13.5073,
+    "budget":230000000,
+    "revenue":795922298,
+    "release_year":"2017",
+    "profit":565922298
+  },
+  {
+    "id":374720,
+    "title":"Dunkirk",
+    "vote_avg":7.451,
+    "vote_count":18195,
+    "directors":[
+      "Christopher Nolan"
+    ],
+    "release_date":"2017-07-19",
+    "runtime_minutes":107,
+    "genres":[
+      "War",
+      "Action",
+      "History"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":14.5005,
+    "budget":150000000,
+    "revenue":549136737,
+    "release_year":"2017",
+    "profit":399136737
+  },
+  {
+    "id":343668,
+    "title":"Kingsman: The Golden Circle",
+    "vote_avg":6.938,
+    "vote_count":11513,
+    "directors":[
+      "Matthew Vaughn"
+    ],
+    "release_date":"2017-09-20",
+    "runtime_minutes":141,
+    "genres":[
+      "Crime",
+      "Comedy",
+      "Action"
+    ],
+    "franchise":"Kingsman Collection",
+    "franchise_id":391860.0,
+    "popularity":13.7684,
+    "budget":104000000,
+    "revenue":410902662,
+    "release_year":"2017",
+    "profit":306902662
+  },
+  {
+    "id":297762,
+    "title":"Wonder Woman",
+    "vote_avg":7.198,
+    "vote_count":21352,
+    "directors":[
+      "Patty Jenkins"
+    ],
+    "release_date":"2017-05-30",
+    "runtime_minutes":141,
+    "genres":[
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "franchise":"Wonder Woman Collection",
+    "franchise_id":468552.0,
+    "popularity":13.162,
+    "budget":149000000,
+    "revenue":823970682,
+    "release_year":"2017",
+    "profit":674970682
+  },
+  {
+    "id":339403,
+    "title":"Baby Driver",
+    "vote_avg":7.444,
+    "vote_count":17402,
+    "directors":[
+      "Edgar Wright"
+    ],
+    "release_date":"2017-06-28",
+    "runtime_minutes":113,
+    "genres":[
+      "Action",
+      "Crime"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":12.8016,
+    "budget":34000000,
+    "revenue":226945087,
+    "release_year":"2017",
+    "profit":192945087
+  },
+  {
+    "id":316029,
+    "title":"The Greatest Showman",
+    "vote_avg":7.851,
+    "vote_count":10318,
+    "directors":[
+      "Michael Gracey"
+    ],
+    "release_date":"2017-12-20",
+    "runtime_minutes":105,
+    "genres":[
+      "Drama"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":12.6327,
+    "budget":84000000,
+    "revenue":459066134,
+    "release_year":"2017",
+    "profit":375066134
+  },
+  {
+    "id":396422,
+    "title":"Annabelle: Creation",
+    "vote_avg":6.607,
+    "vote_count":6155,
+    "directors":[
+      "David F. Sandberg"
+    ],
+    "release_date":"2017-08-03",
+    "runtime_minutes":110,
+    "genres":[
+      "Horror"
+    ],
+    "franchise":"Annabelle Collection",
+    "franchise_id":402074.0,
+    "popularity":12.5246,
+    "budget":15000000,
+    "revenue":306592201,
+    "release_year":"2017",
+    "profit":291592201
+  },
+  {
+    "id":337339,
+    "title":"The Fate of the Furious",
+    "vote_avg":6.846,
+    "vote_count":11096,
+    "directors":[
+      "F. Gary Gray"
+    ],
+    "release_date":"2017-04-12",
+    "runtime_minutes":136,
+    "genres":[
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "franchise":"The Fast and the Furious Collection",
+    "franchise_id":9485.0,
+    "popularity":12.4277,
+    "budget":250000000,
+    "revenue":1236000000,
+    "release_year":"2017",
+    "profit":986000000
+  },
+  {
+    "id":324849,
+    "title":"The Lego Batman Movie",
+    "vote_avg":7.265,
+    "vote_count":5651,
+    "directors":[
+      "Chris McKay"
+    ],
+    "release_date":"2017-02-08",
+    "runtime_minutes":104,
+    "genres":[
+      "Animation",
+      "Action",
+      "Comedy",
+      "Family"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":12.2686,
+    "budget":80000000,
+    "revenue":311950384,
+    "release_year":"2017",
+    "profit":231950384
+  },
+  {
+    "id":381288,
+    "title":"Split",
+    "vote_avg":7.34,
+    "vote_count":18803,
+    "directors":[
+      "M. Night Shyamalan"
+    ],
+    "release_date":"2017-01-19",
+    "runtime_minutes":117,
+    "genres":[
+      "Horror",
+      "Thriller"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":12.2587,
+    "budget":9000000,
+    "revenue":278454358,
+    "release_year":"2017",
+    "profit":269454358
+  },
+  {
+    "id":335988,
+    "title":"Transformers: The Last Knight",
+    "vote_avg":6.061,
+    "vote_count":6972,
+    "directors":[
+      "Michael Bay"
+    ],
+    "release_date":"2017-06-16",
+    "runtime_minutes":154,
+    "genres":[
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "franchise":"Transformers Collection",
+    "franchise_id":8650.0,
+    "popularity":11.9428,
+    "budget":217000000,
+    "revenue":605425157,
+    "release_year":"2017",
+    "profit":388425157
+  },
+  {
+    "id":411088,
+    "title":"The Invisible Guest",
+    "vote_avg":8.07,
+    "vote_count":5201,
+    "directors":[
+      "Oriol Paulo"
+    ],
+    "release_date":"2017-01-06",
+    "runtime_minutes":107,
+    "genres":[
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":11.7463,
+    "budget":4000000,
+    "revenue":30000000,
+    "release_year":"2017",
+    "profit":26000000
+  },
+  {
+    "id":274857,
+    "title":"King Arthur: Legend of the Sword",
+    "vote_avg":6.559,
+    "vote_count":6249,
+    "directors":[
+      "Guy Ritchie"
+    ],
+    "release_date":"2017-05-09",
+    "runtime_minutes":126,
+    "genres":[
+      "Action",
+      "Drama",
+      "Fantasy"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":11.6647,
+    "budget":175000000,
+    "revenue":149175066,
+    "release_year":"2017",
+    "profit":-25824934
+  },
+  {
+    "id":359940,
+    "title":"Three Billboards Outside Ebbing, Missouri",
+    "vote_avg":8.05,
+    "vote_count":11314,
+    "directors":[
+      "Martin McDonagh"
+    ],
+    "release_date":"2017-12-01",
+    "runtime_minutes":115,
+    "genres":[
+      "Crime",
+      "Drama"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":11.5897,
+    "budget":15000000,
+    "revenue":162729321,
+    "release_year":"2017",
+    "profit":147729321
+  },
+  {
+    "id":268531,
+    "title":"Captain Underpants: The First Epic Movie",
+    "vote_avg":6.315,
+    "vote_count":1407,
+    "directors":[
+      "David Soren"
+    ],
+    "release_date":"2017-06-01",
+    "runtime_minutes":89,
+    "genres":[
+      "Family",
+      "Comedy",
+      "Animation",
+      "Science Fiction"
+    ],
+    "franchise":"Captain Underpants Collection",
+    "franchise_id":732397.0,
+    "popularity":11.3962,
+    "budget":38000000,
+    "revenue":125427681,
+    "release_year":"2017",
+    "profit":87427681
+  },
+  {
+    "id":315837,
+    "title":"Ghost in the Shell",
+    "vote_avg":6.118,
+    "vote_count":8842,
+    "directors":[
+      "Rupert Sanders"
+    ],
+    "release_date":"2017-03-29",
+    "runtime_minutes":107,
+    "genres":[
+      "Science Fiction",
+      "Drama",
+      "Action"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":11.3903,
+    "budget":110000000,
+    "revenue":169801921,
+    "release_year":"2017",
+    "profit":59801921
+  },
+  {
+    "id":324852,
+    "title":"Despicable Me 3",
+    "vote_avg":6.467,
+    "vote_count":7866,
+    "directors":[
+      "Pierre Coffin",
+      "Kyle Balda"
+    ],
+    "release_date":"2017-06-15",
+    "runtime_minutes":90,
+    "genres":[
+      "Action",
+      "Animation",
+      "Comedy",
+      "Family",
+      "Adventure"
+    ],
+    "franchise":"Despicable Me Collection",
+    "franchise_id":86066.0,
+    "popularity":11.2534,
+    "budget":80000000,
+    "revenue":1034800131,
+    "release_year":"2017",
+    "profit":954800131
+  },
+  {
+    "id":339846,
+    "title":"Baywatch",
+    "vote_avg":6.074,
+    "vote_count":8691,
+    "directors":[
+      "Seth Gordon"
+    ],
+    "release_date":"2017-05-25",
+    "runtime_minutes":116,
+    "genres":[
+      "Comedy",
+      "Action",
+      "Crime"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":11.1647,
+    "budget":69000000,
+    "revenue":177900000,
+    "release_year":"2017",
+    "profit":108900000
+  },
+  {
+    "id":299536,
+    "title":"Avengers: Infinity War",
+    "vote_avg":8.2,
+    "vote_count":33341,
+    "directors":[
+      "Joe Russo",
+      "Anthony Russo"
+    ],
+    "release_date":"2018-04-25",
+    "runtime_minutes":149,
+    "genres":[
+      "Adventure",
+      "Action",
+      "Science Fiction"
+    ],
+    "franchise":"The Avengers Collection",
+    "franchise_id":86311.0,
+    "popularity":53.4157,
+    "budget":300000000,
+    "revenue":2052415039,
+    "release_year":"2018",
+    "profit":1752415039
+  },
+  {
+    "id":324857,
+    "title":"Spider-Man: Into the Spider-Verse",
+    "vote_avg":8.4,
+    "vote_count":18158,
+    "directors":[
+      "Bob Persichetti",
+      "Peter Ramsey",
+      "Rodney Rothman"
+    ],
+    "release_date":"2018-12-06",
+    "runtime_minutes":117,
+    "genres":[
+      "Animation",
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "franchise":"Spider-Man: Spider-Verse Collection",
+    "franchise_id":573436.0,
+    "popularity":36.553,
+    "budget":90000000,
+    "revenue":394884133,
+    "release_year":"2018",
+    "profit":304884133
+  },
+  {
+    "id":424139,
+    "title":"Halloween",
+    "vote_avg":6.561,
+    "vote_count":5241,
+    "directors":[
+      "David Gordon Green"
+    ],
+    "release_date":"2018-10-18",
+    "runtime_minutes":106,
+    "genres":[
+      "Horror",
+      "Thriller"
+    ],
+    "franchise":"Halloween Collection",
+    "franchise_id":91361.0,
+    "popularity":20.7438,
+    "budget":10000000,
+    "revenue":259939869,
+    "release_year":"2018",
+    "profit":249939869
+  },
+  {
+    "id":383498,
+    "title":"Deadpool 2",
+    "vote_avg":7.488,
+    "vote_count":19895,
+    "directors":[
+      "David Leitch"
+    ],
+    "release_date":"2018-05-15",
+    "runtime_minutes":120,
+    "genres":[
+      "Action",
+      "Comedy",
+      "Adventure"
+    ],
+    "franchise":"Deadpool Collection",
+    "franchise_id":448150.0,
+    "popularity":19.5904,
+    "budget":110000000,
+    "revenue":785896632,
+    "release_year":"2018",
+    "profit":675896632
+  },
+  {
+    "id":284054,
+    "title":"Black Panther",
+    "vote_avg":7.36,
+    "vote_count":24195,
+    "directors":[
+      "Ryan Coogler"
+    ],
+    "release_date":"2018-02-13",
+    "runtime_minutes":135,
+    "genres":[
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "franchise":"Black Panther Collection",
+    "franchise_id":529892.0,
+    "popularity":18.9474,
+    "budget":200000000,
+    "revenue":1349926083,
+    "release_year":"2018",
+    "profit":1149926083
+  },
+  {
+    "id":493922,
+    "title":"Hereditary",
+    "vote_avg":7.297,
+    "vote_count":9079,
+    "directors":[
+      "Ari Aster"
+    ],
+    "release_date":"2018-06-07",
+    "runtime_minutes":128,
+    "genres":[
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":18.8578,
+    "budget":10000000,
+    "revenue":87796204,
+    "release_year":"2018",
+    "profit":77796204
+  },
+  {
+    "id":420634,
+    "title":"Terrifier",
+    "vote_avg":6.286,
+    "vote_count":3142,
+    "directors":[
+      "Damien Leone"
+    ],
+    "release_date":"2018-01-25",
+    "runtime_minutes":84,
+    "genres":[
+      "Horror"
+    ],
+    "franchise":"Terrifier Collection",
+    "franchise_id":727761.0,
+    "popularity":18.381,
+    "budget":35000,
+    "revenue":421798,
+    "release_year":"2018",
+    "profit":386798
+  },
+  {
+    "id":360920,
+    "title":"The Grinch",
+    "vote_avg":6.866,
+    "vote_count":4565,
+    "directors":[
+      "Yarrow Cheney",
+      "Scott Mosier"
+    ],
+    "release_date":"2018-11-08",
+    "runtime_minutes":85,
+    "genres":[
+      "Animation",
+      "Comedy",
+      "Family",
+      "Fantasy"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":17.1417,
+    "budget":75000000,
+    "revenue":552976825,
+    "release_year":"2018",
+    "profit":477976825
+  },
+  {
+    "id":337167,
+    "title":"Fifty Shades Freed",
+    "vote_avg":6.665,
+    "vote_count":8463,
+    "directors":[
+      "James Foley"
+    ],
+    "release_date":"2018-01-17",
+    "runtime_minutes":110,
+    "genres":[
+      "Drama",
+      "Romance"
+    ],
+    "franchise":"Fifty Shades Collection",
+    "franchise_id":344830.0,
+    "popularity":16.8531,
+    "budget":55000000,
+    "revenue":371985018,
+    "release_year":"2018",
+    "profit":316985018
+  },
+  {
+    "id":335983,
+    "title":"Venom",
+    "vote_avg":6.82,
+    "vote_count":17777,
+    "directors":[
+      "Ruben Fleischer"
+    ],
+    "release_date":"2018-09-28",
+    "runtime_minutes":112,
+    "genres":[
+      "Science Fiction",
+      "Action"
+    ],
+    "franchise":"Venom Collection",
+    "franchise_id":558216.0,
+    "popularity":16.4744,
+    "budget":116000000,
+    "revenue":856085151,
+    "release_year":"2018",
+    "profit":740085151
+  },
+  {
+    "id":333339,
+    "title":"Ready Player One",
+    "vote_avg":7.584,
+    "vote_count":17576,
+    "directors":[
+      "Steven Spielberg"
+    ],
+    "release_date":"2018-03-28",
+    "runtime_minutes":140,
+    "genres":[
+      "Adventure",
+      "Action",
+      "Science Fiction"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":16.1474,
+    "budget":175000000,
+    "revenue":607274134,
+    "release_year":"2018",
+    "profit":432274134
+  },
+  {
+    "id":490132,
+    "title":"Green Book",
+    "vote_avg":8.224,
+    "vote_count":13456,
+    "directors":[
+      "Peter Farrelly"
+    ],
+    "release_date":"2018-11-16",
+    "runtime_minutes":130,
+    "genres":[
+      "Drama",
+      "Comedy",
+      "History"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":15.4914,
+    "budget":23000000,
+    "revenue":321752656,
+    "release_year":"2018",
+    "profit":298752656
+  },
+  {
+    "id":363088,
+    "title":"Ant-Man and the Wasp",
+    "vote_avg":6.893,
+    "vote_count":14668,
+    "directors":[
+      "Peyton Reed"
+    ],
+    "release_date":"2018-07-04",
+    "runtime_minutes":119,
+    "genres":[
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "franchise":"Ant-Man Collection",
+    "franchise_id":422834.0,
+    "popularity":15.2307,
+    "budget":140000000,
+    "revenue":622674139,
+    "release_year":"2018",
+    "profit":482674139
+  },
+  {
+    "id":400155,
+    "title":"Hotel Transylvania 3: Summer Vacation",
+    "vote_avg":6.842,
+    "vote_count":4859,
+    "directors":[
+      "Genndy Tartakovsky"
+    ],
+    "release_date":"2018-06-28",
+    "runtime_minutes":97,
+    "genres":[
+      "Animation",
+      "Comedy",
+      "Family",
+      "Fantasy"
+    ],
+    "franchise":"Hotel Transylvania Collection",
+    "franchise_id":185103.0,
+    "popularity":15.0183,
+    "budget":80000000,
+    "revenue":528600000,
+    "release_year":"2018",
+    "profit":448600000
+  },
+  {
+    "id":439079,
+    "title":"The Nun",
+    "vote_avg":5.9,
+    "vote_count":7385,
+    "directors":[
+      "Corin Hardy"
+    ],
+    "release_date":"2018-09-05",
+    "runtime_minutes":96,
+    "genres":[
+      "Horror"
+    ],
+    "franchise":"The Nun Collection",
+    "franchise_id":968052.0,
+    "popularity":14.2376,
+    "budget":22000000,
+    "revenue":366082797,
+    "release_year":"2018",
+    "profit":344082797
+  },
+  {
+    "id":351286,
+    "title":"Jurassic World: Fallen Kingdom",
+    "vote_avg":6.519,
+    "vote_count":13142,
+    "directors":[
+      "J. A. Bayona"
+    ],
+    "release_date":"2018-06-06",
+    "runtime_minutes":129,
+    "genres":[
+      "Adventure",
+      "Science Fiction",
+      "Thriller"
+    ],
+    "franchise":"Jurassic Park Collection",
+    "franchise_id":328.0,
+    "popularity":14.0963,
+    "budget":170000000,
+    "revenue":1310469037,
+    "release_year":"2018",
+    "profit":1140469037
+  },
+  {
+    "id":447332,
+    "title":"A Quiet Place",
+    "vote_avg":7.395,
+    "vote_count":15912,
+    "directors":[
+      "John Krasinski"
+    ],
+    "release_date":"2018-04-03",
+    "runtime_minutes":91,
+    "genres":[
+      "Horror",
+      "Drama",
+      "Science Fiction"
+    ],
+    "franchise":"A Quiet Place Collection",
+    "franchise_id":521226.0,
+    "popularity":12.4731,
+    "budget":17000000,
+    "revenue":340955294,
+    "release_year":"2018",
+    "profit":323955294
+  },
+  {
+    "id":353081,
+    "title":"Mission: Impossible - Fallout",
+    "vote_avg":7.5,
+    "vote_count":9531,
+    "directors":[
+      "Christopher McQuarrie"
+    ],
+    "release_date":"2018-07-25",
+    "runtime_minutes":147,
+    "genres":[
+      "Action",
+      "Adventure"
+    ],
+    "franchise":"Mission: Impossible Collection",
+    "franchise_id":87359.0,
+    "popularity":13.7244,
+    "budget":178000000,
+    "revenue":824171374,
+    "release_year":"2018",
+    "profit":646171374
+  },
+  {
+    "id":260513,
+    "title":"Incredibles 2",
+    "vote_avg":7.452,
+    "vote_count":14070,
+    "directors":[
+      "Brad Bird"
+    ],
+    "release_date":"2018-06-14",
+    "runtime_minutes":118,
+    "genres":[
+      "Action",
+      "Adventure",
+      "Animation",
+      "Family"
+    ],
+    "franchise":"The Incredibles Collection",
+    "franchise_id":468222.0,
+    "popularity":13.5278,
+    "budget":200000000,
+    "revenue":1243225667,
+    "release_year":"2018",
+    "profit":1043225667
+  },
+  {
+    "id":345940,
+    "title":"The Meg",
+    "vote_avg":6.247,
+    "vote_count":8479,
+    "directors":[
+      "Jon Turteltaub"
+    ],
+    "release_date":"2018-08-08",
+    "runtime_minutes":113,
+    "genres":[
+      "Action",
+      "Science Fiction",
+      "Horror"
+    ],
+    "franchise":"The Meg Collection",
+    "franchise_id":742536.0,
+    "popularity":13.1424,
+    "budget":150000000,
+    "revenue":530517320,
+    "release_year":"2018",
+    "profit":380517320
+  },
+  {
+    "id":336843,
+    "title":"Maze Runner: The Death Cure",
+    "vote_avg":7.071,
+    "vote_count":8657,
+    "directors":[
+      "Wes Ball"
+    ],
+    "release_date":"2018-01-10",
+    "runtime_minutes":143,
+    "genres":[
+      "Science Fiction",
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "franchise":"The Maze Runner Collection",
+    "franchise_id":295130.0,
+    "popularity":12.8847,
+    "budget":62000000,
+    "revenue":288418190,
+    "release_year":"2018",
+    "profit":226418190
+  },
+  {
+    "id":404368,
+    "title":"Ralph Breaks the Internet",
+    "vote_avg":7.145,
+    "vote_count":8372,
+    "directors":[
+      "Phil Johnston",
+      "Rich Moore"
+    ],
+    "release_date":"2018-11-20",
+    "runtime_minutes":112,
+    "genres":[
+      "Animation",
+      "Comedy",
+      "Adventure",
+      "Science Fiction",
+      "Family"
+    ],
+    "franchise":"Wreck-It Ralph Collection",
+    "franchise_id":404825.0,
+    "popularity":12.5588,
+    "budget":175000000,
+    "revenue":529323962,
+    "release_year":"2018",
+    "profit":354323962
+  },
+  {
+    "id":427641,
+    "title":"Rampage",
+    "vote_avg":6.461,
+    "vote_count":7807,
+    "directors":[
+      "Brad Peyton"
+    ],
+    "release_date":"2018-04-11",
+    "runtime_minutes":107,
+    "genres":[
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":12.2179,
+    "budget":120000000,
+    "revenue":428028233,
+    "release_year":"2018",
+    "profit":308028233
+  },
+  {
+    "id":345887,
+    "title":"The Equalizer 2",
+    "vote_avg":6.799,
+    "vote_count":6275,
+    "directors":[
+      "Antoine Fuqua"
+    ],
+    "release_date":"2018-07-19",
+    "runtime_minutes":121,
+    "genres":[
+      "Action",
+      "Thriller",
+      "Crime"
+    ],
+    "franchise":"The Equalizer Collection",
+    "franchise_id":523855.0,
+    "popularity":12.07,
+    "budget":62000000,
+    "revenue":190400157,
+    "release_year":"2018",
+    "profit":128400157
+  },
+  {
+    "id":300668,
+    "title":"Annihilation",
+    "vote_avg":6.453,
+    "vote_count":9751,
+    "directors":[
+      "Alex Garland"
+    ],
+    "release_date":"2018-02-22",
+    "runtime_minutes":115,
+    "genres":[
+      "Science Fiction",
+      "Horror"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":11.8727,
+    "budget":40000000,
+    "revenue":43070915,
+    "release_year":"2018",
+    "profit":3070915
+  },
+  {
+    "id":424694,
+    "title":"Bohemian Rhapsody",
+    "vote_avg":7.947,
+    "vote_count":18203,
+    "directors":[
+      "Bryan Singer"
+    ],
+    "release_date":"2018-10-24",
+    "runtime_minutes":135,
+    "genres":[
+      "Music",
+      "Drama"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":11.8499,
+    "budget":52000000,
+    "revenue":910813521,
+    "release_year":"2018",
+    "profit":858813521
+  },
+  {
+    "id":402900,
+    "title":"Ocean's Eight",
+    "vote_avg":6.941,
+    "vote_count":9085,
+    "directors":[
+      "Gary Ross"
+    ],
+    "release_date":"2018-06-07",
+    "runtime_minutes":111,
+    "genres":[
+      "Crime",
+      "Comedy",
+      "Action"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":11.5744,
+    "budget":70000000,
+    "revenue":297718711,
+    "release_year":"2018",
+    "profit":227718711
+  },
+  {
+    "id":401981,
+    "title":"Red Sparrow",
+    "vote_avg":6.531,
+    "vote_count":6545,
+    "directors":[
+      "Francis Lawrence"
+    ],
+    "release_date":"2018-02-28",
+    "runtime_minutes":140,
+    "genres":[
+      "Thriller",
+      "Mystery"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":11.4562,
+    "budget":69000000,
+    "revenue":151572634,
+    "release_year":"2018",
+    "profit":82572634
+  },
+  {
+    "id":268896,
+    "title":"Pacific Rim: Uprising",
+    "vote_avg":6.11,
+    "vote_count":5565,
+    "directors":[
+      "Steven S. DeKnight"
+    ],
+    "release_date":"2018-03-21",
+    "runtime_minutes":111,
+    "genres":[
+      "Action",
+      "Fantasy",
+      "Science Fiction"
+    ],
+    "franchise":"Pacific Rim Collection",
+    "franchise_id":363369.0,
+    "popularity":11.1654,
+    "budget":150000000,
+    "revenue":290061297,
+    "release_year":"2018",
+    "profit":140061297
+  },
+  {
+    "id":297802,
+    "title":"Aquaman",
+    "vote_avg":6.86,
+    "vote_count":15339,
+    "directors":[
+      "James Wan"
+    ],
+    "release_date":"2018-12-07",
+    "runtime_minutes":143,
+    "genres":[
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "franchise":"Aquaman Collection",
+    "franchise_id":573693.0,
+    "popularity":10.4816,
+    "budget":160000000,
+    "revenue":1152028393,
+    "release_year":"2018",
+    "profit":992028393
+  },
+  {
+    "id":338970,
+    "title":"Tomb Raider",
+    "vote_avg":6.36,
+    "vote_count":8604,
+    "directors":[
+      "Roar Uthaug"
+    ],
+    "release_date":"2018-03-05",
+    "runtime_minutes":118,
+    "genres":[
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":10.8635,
+    "budget":94000000,
+    "revenue":274650803,
+    "release_year":"2018",
+    "profit":180650803
+  },
+  {
+    "id":348350,
+    "title":"Solo: A Star Wars Story",
+    "vote_avg":6.551,
+    "vote_count":9631,
+    "directors":[
+      "Ron Howard"
+    ],
+    "release_date":"2018-05-15",
+    "runtime_minutes":135,
+    "genres":[
+      "Science Fiction",
+      "Adventure",
+      "Action"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":10.7853,
+    "budget":250000000,
+    "revenue":392952373,
+    "release_year":"2018",
+    "profit":142952373
+  },
+  {
+    "id":406563,
+    "title":"Insidious: The Last Key",
+    "vote_avg":6.299,
+    "vote_count":3345,
+    "directors":[
+      "Adam Robitel"
+    ],
+    "release_date":"2018-01-03",
+    "runtime_minutes":103,
+    "genres":[
+      "Horror",
+      "Thriller"
+    ],
+    "franchise":"Insidious Collection",
+    "franchise_id":228446.0,
+    "popularity":10.7079,
+    "budget":10000000,
+    "revenue":172811971,
+    "release_year":"2018",
+    "profit":162811971
+  },
+  {
+    "id":400535,
+    "title":"Sicario: Day of the Soldado",
+    "vote_avg":6.949,
+    "vote_count":4285,
+    "directors":[
+      "Stefano Sollima"
+    ],
+    "release_date":"2018-06-27",
+    "runtime_minutes":122,
+    "genres":[
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "franchise":"Sicario Collection",
+    "franchise_id":496796.0,
+    "popularity":10.6526,
+    "budget":35000000,
+    "revenue":75836683,
+    "release_year":"2018",
+    "profit":40836683
+  },
+  {
+    "id":424783,
+    "title":"Bumblebee",
+    "vote_avg":6.731,
+    "vote_count":6938,
+    "directors":[
+      "Travis Knight"
+    ],
+    "release_date":"2018-11-22",
+    "runtime_minutes":114,
+    "genres":[
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":10.2626,
+    "budget":135000000,
+    "revenue":467989645,
+    "release_year":"2018",
+    "profit":332989645
+  },
+  {
+    "id":480530,
+    "title":"Creed II",
+    "vote_avg":7.033,
+    "vote_count":5981,
+    "directors":[
+      "Steven Caple Jr."
+    ],
+    "release_date":"2018-11-21",
+    "runtime_minutes":130,
+    "genres":[
+      "Drama",
+      "Action"
+    ],
+    "franchise":"Creed Collection",
+    "franchise_id":553717.0,
+    "popularity":10.0485,
+    "budget":50000000,
+    "revenue":214200000,
+    "release_year":"2018",
+    "profit":164200000
+  },
+  {
+    "id":338952,
+    "title":"Fantastic Beasts: The Crimes of Grindelwald",
+    "vote_avg":6.825,
+    "vote_count":11787,
+    "directors":[
+      "David Yates"
+    ],
+    "release_date":"2018-11-14",
+    "runtime_minutes":134,
+    "genres":[
+      "Fantasy",
+      "Adventure"
+    ],
+    "franchise":"Fantastic Beasts Collection",
+    "franchise_id":435259.0,
+    "popularity":8.1129,
+    "budget":200000000,
+    "revenue":654900000,
+    "release_year":"2018",
+    "profit":454900000
+  },
+  {
+    "id":419743,
+    "title":"Disobedience",
+    "vote_avg":6.9,
+    "vote_count":1314,
+    "directors":[
+      "Sebasti\u00e1n Lelio"
+    ],
+    "release_date":"2018-04-24",
+    "runtime_minutes":114,
+    "genres":[
+      "Drama",
+      "Romance"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":9.7082,
+    "budget":6000000,
+    "revenue":8000000,
+    "release_year":"2018",
+    "profit":2000000
+  },
+  {
+    "id":445571,
+    "title":"Game Night",
+    "vote_avg":6.851,
+    "vote_count":6593,
+    "directors":[
+      "John Francis Daley",
+      "Jonathan Goldstein"
+    ],
+    "release_date":"2018-02-15",
+    "runtime_minutes":100,
+    "genres":[
+      "Mystery",
+      "Comedy",
+      "Crime"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":9.7046,
+    "budget":37000000,
+    "revenue":117501013,
+    "release_year":"2018",
+    "profit":80501013
+  },
+  {
+    "id":299534,
+    "title":"Avengers: Endgame",
+    "vote_avg":8.247,
+    "vote_count":29227,
+    "directors":[
+      "Anthony Russo",
+      "Joe Russo"
+    ],
+    "release_date":"2019-04-24",
+    "runtime_minutes":181,
+    "genres":[
+      "Adventure",
+      "Science Fiction",
+      "Action"
+    ],
+    "franchise":"The Avengers Collection",
+    "franchise_id":86311.0,
+    "popularity":56.9547,
+    "budget":356000000,
+    "revenue":2942186933,
+    "release_year":"2019",
+    "profit":2586186933
+  },
+  {
+    "id":496243,
+    "title":"Parasite",
+    "vote_avg":8.489,
+    "vote_count":21645,
+    "directors":[
+      "Bong Joon Ho"
+    ],
+    "release_date":"2019-05-30",
+    "runtime_minutes":133,
+    "genres":[
+      "Comedy",
+      "Thriller",
+      "Drama"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":33.9496,
+    "budget":11363000,
+    "revenue":257591776,
+    "release_year":"2019",
+    "profit":246228776
+  },
+  {
+    "id":475557,
+    "title":"Joker",
+    "vote_avg":8.114,
+    "vote_count":28648,
+    "directors":[
+      "Todd Phillips"
+    ],
+    "release_date":"2019-10-01",
+    "runtime_minutes":122,
+    "genres":[
+      "Crime",
+      "Thriller",
+      "Drama"
+    ],
+    "franchise":"Joker Collection",
+    "franchise_id":987044.0,
+    "popularity":28.3451,
+    "budget":55000000,
+    "revenue":1078958629,
+    "release_year":"2019",
+    "profit":1023958629
+  },
+  {
+    "id":429617,
+    "title":"Spider-Man: Far From Home",
+    "vote_avg":7.386,
+    "vote_count":17859,
+    "directors":[
+      "Jon Watts"
+    ],
+    "release_date":"2019-06-28",
+    "runtime_minutes":129,
+    "genres":[
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "franchise":"Spider-Man (MCU) Collection",
+    "franchise_id":531241.0,
+    "popularity":26.1549,
+    "budget":160000000,
+    "revenue":1132723226,
+    "release_year":"2019",
+    "profit":972723226
+  },
+  {
+    "id":466272,
+    "title":"Once Upon a Time... in Hollywood",
+    "vote_avg":7.418,
+    "vote_count":15518,
+    "directors":[
+      "Quentin Tarantino"
+    ],
+    "release_date":"2019-07-24",
+    "runtime_minutes":162,
+    "genres":[
+      "Comedy",
+      "Drama",
+      "Thriller"
+    ],
+    "franchise":"Once Upon a Time... in Hollywood Collection",
+    "franchise_id":1458846.0,
+    "popularity":24.9715,
+    "budget":95000000,
+    "revenue":393869691,
+    "release_year":"2019",
+    "profit":298869691
+  },
+  {
+    "id":546554,
+    "title":"Knives Out",
+    "vote_avg":7.843,
+    "vote_count":14747,
+    "directors":[
+      "Rian Johnson"
+    ],
+    "release_date":"2019-11-27",
+    "runtime_minutes":131,
+    "genres":[
+      "Comedy",
+      "Crime",
+      "Mystery"
+    ],
+    "franchise":"Knives Out Collection",
+    "franchise_id":722971.0,
+    "popularity":19.7396,
+    "budget":40000000,
+    "revenue":312897920,
+    "release_year":"2019",
+    "profit":272897920
+  },
+  {
+    "id":331482,
+    "title":"Little Women",
+    "vote_avg":7.851,
+    "vote_count":7118,
+    "directors":[
+      "Greta Gerwig"
+    ],
+    "release_date":"2019-12-25",
+    "runtime_minutes":135,
+    "genres":[
+      "Drama",
+      "Romance"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":18.154,
+    "budget":40000000,
+    "revenue":332103783,
+    "release_year":"2019",
+    "profit":292103783
+  },
+  {
+    "id":299537,
+    "title":"Captain Marvel",
+    "vote_avg":6.766,
+    "vote_count":17323,
+    "directors":[
+      "Ryan Fleck",
+      "Anna Boden"
+    ],
+    "release_date":"2019-03-06",
+    "runtime_minutes":124,
+    "genres":[
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "franchise":"Captain Marvel Collection",
+    "franchise_id":623911.0,
+    "popularity":17.9352,
+    "budget":152000000,
+    "revenue":1131416446,
+    "release_year":"2019",
+    "profit":979416446
+  },
+  {
+    "id":474350,
+    "title":"It Chapter Two",
+    "vote_avg":6.826,
+    "vote_count":9969,
+    "directors":[
+      "Andy Muschietti"
+    ],
+    "release_date":"2019-09-04",
+    "runtime_minutes":169,
+    "genres":[
+      "Horror",
+      "Thriller",
+      "Drama"
+    ],
+    "franchise":"It Collection",
+    "franchise_id":477962.0,
+    "popularity":17.7171,
+    "budget":79000000,
+    "revenue":473123154,
+    "release_year":"2019",
+    "profit":394123154
+  },
+  {
+    "id":530385,
+    "title":"Midsommar",
+    "vote_avg":7.1,
+    "vote_count":8610,
+    "directors":[
+      "Ari Aster"
+    ],
+    "release_date":"2019-07-03",
+    "runtime_minutes":147,
+    "genres":[
+      "Horror",
+      "Drama",
+      "Mystery"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":17.9787,
+    "budget":9000000,
+    "revenue":48498408,
+    "release_year":"2019",
+    "profit":39498408
+  },
+  {
+    "id":330457,
+    "title":"Frozen II",
+    "vote_avg":7.218,
+    "vote_count":10560,
+    "directors":[
+      "Jennifer Lee",
+      "Chris Buck"
+    ],
+    "release_date":"2019-11-20",
+    "runtime_minutes":103,
+    "genres":[
+      "Family",
+      "Animation",
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "franchise":"Frozen Collection",
+    "franchise_id":386382.0,
+    "popularity":17.3371,
+    "budget":150000000,
+    "revenue":1453683476,
+    "release_year":"2019",
+    "profit":1303683476
+  },
+  {
+    "id":301528,
+    "title":"Toy Story 4",
+    "vote_avg":7.462,
+    "vote_count":11136,
+    "directors":[
+      "Josh Cooley"
+    ],
+    "release_date":"2019-06-19",
+    "runtime_minutes":100,
+    "genres":[
+      "Family",
+      "Comedy",
+      "Animation",
+      "Adventure"
+    ],
+    "franchise":"Toy Story Collection",
+    "franchise_id":10194.0,
+    "popularity":16.7582,
+    "budget":175000000,
+    "revenue":1073841394,
+    "release_year":"2019",
+    "profit":898841394
+  },
+  {
+    "id":530915,
+    "title":"1917",
+    "vote_avg":7.983,
+    "vote_count":14093,
+    "directors":[
+      "Sam Mendes"
+    ],
+    "release_date":"2019-12-25",
+    "runtime_minutes":119,
+    "genres":[
+      "War",
+      "Drama",
+      "History"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":16.5824,
+    "budget":100000000,
+    "revenue":446064352,
+    "release_year":"2019",
+    "profit":346064352
+  },
+  {
+    "id":359724,
+    "title":"Ford v Ferrari",
+    "vote_avg":8.009,
+    "vote_count":9467,
+    "directors":[
+      "James Mangold"
+    ],
+    "release_date":"2019-11-13",
+    "runtime_minutes":153,
+    "genres":[
+      "Drama",
+      "History",
+      "Action"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":16.3932,
+    "budget":97600000,
+    "revenue":225508210,
+    "release_year":"2019",
+    "profit":127908210
+  },
+  {
+    "id":373571,
+    "title":"Godzilla: King of the Monsters",
+    "vote_avg":6.678,
+    "vote_count":7000,
+    "directors":[
+      "Michael Dougherty"
+    ],
+    "release_date":"2019-05-29",
+    "runtime_minutes":132,
+    "genres":[
+      "Science Fiction",
+      "Action"
+    ],
+    "franchise":"Godzilla Collection",
+    "franchise_id":535313.0,
+    "popularity":16.2578,
+    "budget":170000000,
+    "revenue":387300138,
+    "release_year":"2019",
+    "profit":217300138
+  },
+  {
+    "id":181812,
+    "title":"Star Wars: The Rise of Skywalker",
+    "vote_avg":6.241,
+    "vote_count":11303,
+    "directors":[
+      "J.J. Abrams"
+    ],
+    "release_date":"2019-12-18",
+    "runtime_minutes":142,
+    "genres":[
+      "Adventure",
+      "Action",
+      "Science Fiction"
+    ],
+    "franchise":"Star Wars Collection",
+    "franchise_id":10.0,
+    "popularity":15.5883,
+    "budget":489900000,
+    "revenue":1074144248,
+    "release_year":"2019",
+    "profit":584244248
+  },
+  {
+    "id":166428,
+    "title":"How to Train Your Dragon: The Hidden World",
+    "vote_avg":7.748,
+    "vote_count":7364,
+    "directors":[
+      "Dean DeBlois"
+    ],
+    "release_date":"2019-01-03",
+    "runtime_minutes":104,
+    "genres":[
+      "Animation",
+      "Family",
+      "Adventure"
+    ],
+    "franchise":"How to Train Your Dragon Collection",
+    "franchise_id":89137.0,
+    "popularity":13.2345,
+    "budget":129000000,
+    "revenue":539987993,
+    "release_year":"2019",
+    "profit":410987993
+  },
+  {
+    "id":458156,
+    "title":"John Wick: Chapter 3 - Parabellum",
+    "vote_avg":7.439,
+    "vote_count":12255,
+    "directors":[
+      "Chad Stahelski"
+    ],
+    "release_date":"2019-05-15",
+    "runtime_minutes":131,
+    "genres":[
+      "Action",
+      "Thriller",
+      "Crime"
+    ],
+    "franchise":"John Wick Collection",
+    "franchise_id":404609.0,
+    "popularity":15.2771,
+    "budget":55000000,
+    "revenue":328349908,
+    "release_year":"2019",
+    "profit":273349908
+  },
+  {
+    "id":412117,
+    "title":"The Secret Life of Pets 2",
+    "vote_avg":6.947,
+    "vote_count":3451,
+    "directors":[
+      "Chris Renaud"
+    ],
+    "release_date":"2019-05-24",
+    "runtime_minutes":86,
+    "genres":[
+      "Animation",
+      "Comedy",
+      "Family",
+      "Adventure"
+    ],
+    "franchise":"The Secret Life of Pets Collection",
+    "franchise_id":427084.0,
+    "popularity":14.2352,
+    "budget":80000000,
+    "revenue":429434163,
+    "release_year":"2019",
+    "profit":349434163
+  },
+  {
+    "id":512200,
+    "title":"Jumanji: The Next Level",
+    "vote_avg":6.864,
+    "vote_count":9706,
+    "directors":[
+      "Jake Kasdan"
+    ],
+    "release_date":"2019-12-04",
+    "runtime_minutes":123,
+    "genres":[
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "franchise":"Jumanji Collection",
+    "franchise_id":495527.0,
+    "popularity":14.0959,
+    "budget":125000000,
+    "revenue":801693929,
+    "release_year":"2019",
+    "profit":676693929
+  },
+  {
+    "id":481084,
+    "title":"The Addams Family",
+    "vote_avg":6.613,
+    "vote_count":2562,
+    "directors":[
+      "Conrad Vernon",
+      "Greg Tiernan"
+    ],
+    "release_date":"2019-10-10",
+    "runtime_minutes":87,
+    "genres":[
+      "Family",
+      "Animation",
+      "Comedy",
+      "Fantasy"
+    ],
+    "franchise":"The Addams Family (Animated) Collection",
+    "franchise_id":750822.0,
+    "popularity":13.9126,
+    "budget":40000000,
+    "revenue":204394183,
+    "release_year":"2019",
+    "profit":164394183
+  },
+  {
+    "id":420818,
+    "title":"The Lion King",
+    "vote_avg":7.089,
+    "vote_count":11004,
+    "directors":[
+      "Jon Favreau"
+    ],
+    "release_date":"2019-07-12",
+    "runtime_minutes":118,
+    "genres":[
+      "Adventure",
+      "Drama",
+      "Family",
+      "Animation"
+    ],
+    "franchise":"The Lion King (Reboot) Collection",
+    "franchise_id":762512.0,
+    "popularity":13.4344,
+    "budget":260000000,
+    "revenue":1662020819,
+    "release_year":"2019",
+    "profit":1402020819
+  },
+  {
+    "id":531428,
+    "title":"Portrait of a Lady on Fire",
+    "vote_avg":8.1,
+    "vote_count":3098,
+    "directors":[
+      "C\u00e9line Sciamma"
+    ],
+    "release_date":"2019-09-06",
+    "runtime_minutes":121,
+    "genres":[
+      "Drama",
+      "Romance"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":13.3598,
+    "budget":5740000,
+    "revenue":9923127,
+    "release_year":"2019",
+    "profit":4183127
+  },
+  {
+    "id":290859,
+    "title":"Terminator: Dark Fate",
+    "vote_avg":6.414,
+    "vote_count":5962,
+    "directors":[
+      "Tim Miller"
+    ],
+    "release_date":"2019-10-23",
+    "runtime_minutes":128,
+    "genres":[
+      "Science Fiction",
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "franchise":"The Terminator Collection",
+    "franchise_id":528.0,
+    "popularity":13.2903,
+    "budget":185000000,
+    "revenue":261119292,
+    "release_year":"2019",
+    "profit":76119292
+  },
+  {
+    "id":384018,
+    "title":"Fast & Furious Presents: Hobbs & Shaw",
+    "vote_avg":6.814,
+    "vote_count":8024,
+    "directors":[
+      "David Leitch"
+    ],
+    "release_date":"2019-07-31",
+    "runtime_minutes":137,
+    "genres":[
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "franchise":"The Fast and the Furious Collection",
+    "franchise_id":9485.0,
+    "popularity":12.1069,
+    "budget":200000000,
+    "revenue":760098996,
+    "release_year":"2019",
+    "profit":560098996
+  },
+  {
+    "id":399579,
+    "title":"Alita: Battle Angel",
+    "vote_avg":7.278,
+    "vote_count":10518,
+    "directors":[
+      "Robert Rodriguez"
+    ],
+    "release_date":"2019-01-31",
+    "runtime_minutes":122,
+    "genres":[
+      "Action",
+      "Science Fiction",
+      "Adventure"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":12.8976,
+    "budget":170000000,
+    "revenue":405000000,
+    "release_year":"2019",
+    "profit":235000000
+  },
+  {
+    "id":567609,
+    "title":"Ready or Not",
+    "vote_avg":7.098,
+    "vote_count":6012,
+    "directors":[
+      "Matt Bettinelli-Olpin",
+      "Tyler Gillett"
+    ],
+    "release_date":"2019-08-21",
+    "runtime_minutes":96,
+    "genres":[
+      "Horror",
+      "Comedy"
+    ],
+    "franchise":"Ready or Not Collection",
+    "franchise_id":1267164.0,
+    "popularity":12.6184,
+    "budget":6000000,
+    "revenue":57615777,
+    "release_year":"2019",
+    "profit":51615777
+  },
+  {
+    "id":420817,
+    "title":"Aladdin",
+    "vote_avg":7.074,
+    "vote_count":10906,
+    "directors":[
+      "Guy Ritchie"
+    ],
+    "release_date":"2019-05-22",
+    "runtime_minutes":127,
+    "genres":[
+      "Adventure",
+      "Fantasy",
+      "Romance",
+      "Family"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":12.2358,
+    "budget":183000000,
+    "revenue":1054304000,
+    "release_year":"2019",
+    "profit":871304000
+  },
+  {
+    "id":454640,
+    "title":"The Angry Birds Movie 2",
+    "vote_avg":7.047,
+    "vote_count":1983,
+    "directors":[
+      "Thurop Van Orman"
+    ],
+    "release_date":"2019-08-02",
+    "runtime_minutes":97,
+    "genres":[
+      "Animation",
+      "Adventure",
+      "Comedy",
+      "Family",
+      "Action"
+    ],
+    "franchise":"The Angry Birds Collection",
+    "franchise_id":531315.0,
+    "popularity":12.1251,
+    "budget":65000000,
+    "revenue":137792047,
+    "release_year":"2019",
+    "profit":72792047
+  },
+  {
+    "id":287947,
+    "title":"Shazam!",
+    "vote_avg":6.965,
+    "vote_count":10564,
+    "directors":[
+      "David F. Sandberg"
+    ],
+    "release_date":"2019-03-29",
+    "runtime_minutes":132,
+    "genres":[
+      "Action",
+      "Comedy",
+      "Fantasy"
+    ],
+    "franchise":"Shazam! Collection",
+    "franchise_id":724848.0,
+    "popularity":11.9994,
+    "budget":80000000,
+    "revenue":367799011,
+    "release_year":"2019",
+    "profit":287799011
+  },
+  {
+    "id":280217,
+    "title":"The Lego Movie 2: The Second Part",
+    "vote_avg":6.6,
+    "vote_count":2554,
+    "directors":[
+      "Mike Mitchell"
+    ],
+    "release_date":"2019-02-06",
+    "runtime_minutes":107,
+    "genres":[
+      "Action",
+      "Adventure",
+      "Animation",
+      "Comedy",
+      "Family"
+    ],
+    "franchise":"The Lego Movie Collection",
+    "franchise_id":325470.0,
+    "popularity":10.1943,
+    "budget":99000000,
+    "revenue":199603202,
+    "release_year":"2019",
+    "profit":100603202
+  },
+  {
+    "id":537915,
+    "title":"After",
+    "vote_avg":7.101,
+    "vote_count":8590,
+    "directors":[
+      "Jenny Gage"
+    ],
+    "release_date":"2019-04-11",
+    "runtime_minutes":106,
+    "genres":[
+      "Drama",
+      "Romance"
+    ],
+    "franchise":"After Collection",
+    "franchise_id":702624.0,
+    "popularity":11.2509,
+    "budget":14000000,
+    "revenue":69497587,
+    "release_year":"2019",
+    "profit":55497587
+  },
+  {
+    "id":501170,
+    "title":"Doctor Sleep",
+    "vote_avg":7.2,
+    "vote_count":5135,
+    "directors":[
+      "Mike Flanagan"
+    ],
+    "release_date":"2019-10-30",
+    "runtime_minutes":152,
+    "genres":[
+      "Horror",
+      "Fantasy"
+    ],
+    "franchise":"The Shining Collection",
+    "franchise_id":530064.0,
+    "popularity":11.2427,
+    "budget":45000000,
+    "revenue":72385286,
+    "release_year":"2019",
+    "profit":27385286
+  },
+  {
+    "id":320288,
+    "title":"Dark Phoenix",
+    "vote_avg":5.958,
+    "vote_count":7407,
+    "directors":[
+      "Simon Kinberg"
+    ],
+    "release_date":"2019-06-05",
+    "runtime_minutes":114,
+    "genres":[
+      "Science Fiction",
+      "Action",
+      "Adventure"
+    ],
+    "franchise":"X-Men Collection",
+    "franchise_id":748.0,
+    "popularity":11.1194,
+    "budget":200000000,
+    "revenue":252442974,
+    "release_year":"2019",
+    "profit":52442974
+  },
+  {
+    "id":420809,
+    "title":"Maleficent: Mistress of Evil",
+    "vote_avg":7.289,
+    "vote_count":6669,
+    "directors":[
+      "Joachim R\u00f8nning"
+    ],
+    "release_date":"2019-10-16",
+    "runtime_minutes":119,
+    "genres":[
+      "Family",
+      "Fantasy",
+      "Adventure"
+    ],
+    "franchise":"Maleficent Collection",
+    "franchise_id":531331.0,
+    "popularity":11.0906,
+    "budget":185000000,
+    "revenue":491730089,
+    "release_year":"2019",
+    "profit":306730089
+  },
+  {
+    "id":398978,
+    "title":"The Irishman",
+    "vote_avg":7.568,
+    "vote_count":7843,
+    "directors":[
+      "Martin Scorsese"
+    ],
+    "release_date":"2019-11-01",
+    "runtime_minutes":209,
+    "genres":[
+      "Crime",
+      "Drama",
+      "History"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":10.1643,
+    "budget":159000000,
+    "revenue":968853,
+    "release_year":"2019",
+    "profit":-158031147
+  },
+  {
+    "id":581528,
+    "title":"The Gangster, the Cop, the Devil",
+    "vote_avg":7.9,
+    "vote_count":1620,
+    "directors":[
+      "Lee Won-tae"
+    ],
+    "release_date":"2019-05-15",
+    "runtime_minutes":110,
+    "genres":[
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":10.9468,
+    "budget":6500000,
+    "revenue":25775371,
+    "release_year":"2019",
+    "profit":19275371
+  },
+  {
+    "id":450465,
+    "title":"Glass",
+    "vote_avg":6.663,
+    "vote_count":9373,
+    "directors":[
+      "M. Night Shyamalan"
+    ],
+    "release_date":"2019-01-16",
+    "runtime_minutes":129,
+    "genres":[
+      "Thriller",
+      "Drama",
+      "Science Fiction"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":10.6222,
+    "budget":20000000,
+    "revenue":246999039,
+    "release_year":"2019",
+    "profit":226999039
+  },
+  {
+    "id":447404,
+    "title":"Pok\u00e9mon Detective Pikachu",
+    "vote_avg":6.89,
+    "vote_count":7593,
+    "directors":[
+      "Rob Letterman"
+    ],
+    "release_date":"2019-05-03",
+    "runtime_minutes":105,
+    "genres":[
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":10.6078,
+    "budget":150000000,
+    "revenue":450063166,
+    "release_year":"2019",
+    "profit":300063166
+  },
+  {
+    "id":423204,
+    "title":"Angel Has Fallen",
+    "vote_avg":6.608,
+    "vote_count":4042,
+    "directors":[
+      "Ric Roman Waugh"
+    ],
+    "release_date":"2019-08-21",
+    "runtime_minutes":122,
+    "genres":[
+      "Action",
+      "Thriller"
+    ],
+    "franchise":"Has Fallen Collection",
+    "franchise_id":386534.0,
+    "popularity":10.5507,
+    "budget":40000000,
+    "revenue":146661977,
+    "release_year":"2019",
+    "profit":106661977
+  },
+  {
+    "id":508442,
+    "title":"Soul",
+    "vote_avg":8.086,
+    "vote_count":11894,
+    "directors":[
+      "Pete Docter"
+    ],
+    "release_date":"2020-12-25",
+    "runtime_minutes":101,
+    "genres":[
+      "Animation",
+      "Family",
+      "Drama",
+      "Music",
+      "Fantasy"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":18.1955,
+    "budget":150000000,
+    "revenue":121977511,
+    "release_year":"2020",
+    "profit":-28022489
+  },
+  {
+    "id":454626,
+    "title":"Sonic the Hedgehog",
+    "vote_avg":7.263,
+    "vote_count":10662,
+    "directors":[
+      "Jeff Fowler"
+    ],
+    "release_date":"2020-02-12",
+    "runtime_minutes":99,
+    "genres":[
+      "Action",
+      "Science Fiction",
+      "Comedy",
+      "Family"
+    ],
+    "franchise":"Sonic the Hedgehog Collection",
+    "franchise_id":720879.0,
+    "popularity":15.6146,
+    "budget":85000000,
+    "revenue":319715683,
+    "release_year":"2020",
+    "profit":234715683
+  },
+  {
+    "id":522627,
+    "title":"The Gentlemen",
+    "vote_avg":7.66,
+    "vote_count":7031,
+    "directors":[
+      "Guy Ritchie"
+    ],
+    "release_date":"2020-01-01",
+    "runtime_minutes":113,
+    "genres":[
+      "Comedy",
+      "Crime"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":15.5619,
+    "budget":22000000,
+    "revenue":115171795,
+    "release_year":"2020",
+    "profit":93171795
+  },
+  {
+    "id":581392,
+    "title":"Peninsula",
+    "vote_avg":6.674,
+    "vote_count":2708,
+    "directors":[
+      "Yeon Sang-ho"
+    ],
+    "release_date":"2020-07-15",
+    "runtime_minutes":116,
+    "genres":[
+      "Horror",
+      "Action",
+      "Thriller",
+      "Adventure"
+    ],
+    "franchise":"Train to Busan Collection",
+    "franchise_id":619537.0,
+    "popularity":15.2778,
+    "budget":17000000,
+    "revenue":42698327,
+    "release_year":"2020",
+    "profit":25698327
+  },
+  {
+    "id":577922,
+    "title":"Tenet",
+    "vote_avg":7.172,
+    "vote_count":11738,
+    "directors":[
+      "Christopher Nolan"
+    ],
+    "release_date":"2020-08-22",
+    "runtime_minutes":150,
+    "genres":[
+      "Action",
+      "Thriller",
+      "Science Fiction"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":15.0799,
+    "budget":205000000,
+    "revenue":365304105,
+    "release_year":"2020",
+    "profit":160304105
+  },
+  {
+    "id":446893,
+    "title":"Trolls World Tour",
+    "vote_avg":7.224,
+    "vote_count":2329,
+    "directors":[
+      "Walt Dohrn"
+    ],
+    "release_date":"2020-03-11",
+    "runtime_minutes":91,
+    "genres":[
+      "Family",
+      "Animation",
+      "Comedy",
+      "Fantasy",
+      "Adventure",
+      "Music"
+    ],
+    "franchise":"The Trolls Collection",
+    "franchise_id":489724.0,
+    "popularity":13.9301,
+    "budget":90000000,
+    "revenue":49276818,
+    "release_year":"2020",
+    "profit":-40723182
+  },
+  {
+    "id":524047,
+    "title":"Greenland",
+    "vote_avg":7.115,
+    "vote_count":5634,
+    "directors":[
+      "Ric Roman Waugh"
+    ],
+    "release_date":"2020-07-29",
+    "runtime_minutes":120,
+    "genres":[
+      "Thriller",
+      "Action",
+      "Science Fiction"
+    ],
+    "franchise":"Greenland Collection",
+    "franchise_id":840465.0,
+    "popularity":12.8321,
+    "budget":34000000,
+    "revenue":52300000,
+    "release_year":"2020",
+    "profit":18300000
+  },
+  {
+    "id":635302,
+    "title":"Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train",
+    "vote_avg":8.232,
+    "vote_count":4742,
+    "directors":[
+      "Haruo Sotozaki"
+    ],
+    "release_date":"2020-10-16",
+    "runtime_minutes":117,
+    "genres":[
+      "Animation",
+      "Action",
+      "Fantasy"
+    ],
+    "franchise":"Demon Slayer: Kimetsu no Yaiba Collection",
+    "franchise_id":925155.0,
+    "popularity":12.4845,
+    "budget":15700000,
+    "revenue":523542183,
+    "release_year":"2020",
+    "profit":507842183
+  },
+  {
+    "id":514847,
+    "title":"The Hunt",
+    "vote_avg":6.659,
+    "vote_count":3896,
+    "directors":[
+      "Craig Zobel"
+    ],
+    "release_date":"2020-03-11",
+    "runtime_minutes":90,
+    "genres":[
+      "Action",
+      "Thriller",
+      "Horror"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":12.3949,
+    "budget":14000000,
+    "revenue":12460447,
+    "release_year":"2020",
+    "profit":-1539553
+  },
+  {
+    "id":464052,
+    "title":"Wonder Woman 1984",
+    "vote_avg":6.339,
+    "vote_count":9350,
+    "directors":[
+      "Patty Jenkins"
+    ],
+    "release_date":"2020-12-16",
+    "runtime_minutes":151,
+    "genres":[
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "franchise":"Wonder Woman Collection",
+    "franchise_id":468552.0,
+    "popularity":11.9943,
+    "budget":200000000,
+    "revenue":169601036,
+    "release_year":"2020",
+    "profit":-30398964
+  },
+  {
+    "id":495764,
+    "title":"Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)",
+    "vote_avg":6.857,
+    "vote_count":11090,
+    "directors":[
+      "Cathy Yan"
+    ],
+    "release_date":"2020-02-05",
+    "runtime_minutes":109,
+    "genres":[
+      "Action",
+      "Crime"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":11.6594,
+    "budget":75000000,
+    "revenue":205537933,
+    "release_year":"2020",
+    "profit":130537933
+  },
+  {
+    "id":550231,
+    "title":"The Secret: Dare to Dream",
+    "vote_avg":7.374,
+    "vote_count":700,
+    "directors":[
+      "Andy Tennant"
+    ],
+    "release_date":"2020-04-16",
+    "runtime_minutes":107,
+    "genres":[
+      "Drama",
+      "Romance"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":10.9265,
+    "budget":21000000,
+    "revenue":3215636,
+    "release_year":"2020",
+    "profit":-17784364
+  },
+  {
+    "id":38700,
+    "title":"Bad Boys for Life",
+    "vote_avg":7.101,
+    "vote_count":8967,
+    "directors":[
+      "Bilall Fallah",
+      "Adil El Arbi"
+    ],
+    "release_date":"2020-01-15",
+    "runtime_minutes":124,
+    "genres":[
+      "Thriller",
+      "Action",
+      "Crime"
+    ],
+    "franchise":"Bad Boys Collection",
+    "franchise_id":14890.0,
+    "popularity":10.8151,
+    "budget":90000000,
+    "revenue":426505244,
+    "release_year":"2020",
+    "profit":336505244
+  },
+  {
+    "id":529203,
+    "title":"The Croods: A New Age",
+    "vote_avg":7.433,
+    "vote_count":4271,
+    "directors":[
+      "Joel Crawford"
+    ],
+    "release_date":"2020-11-25",
+    "runtime_minutes":95,
+    "genres":[
+      "Animation",
+      "Family",
+      "Adventure",
+      "Fantasy",
+      "Comedy"
+    ],
+    "franchise":"The Croods Collection",
+    "franchise_id":464577.0,
+    "popularity":10.6627,
+    "budget":65000000,
+    "revenue":215905815,
+    "release_year":"2020",
+    "profit":150905815
+  },
+  {
+    "id":508439,
+    "title":"Onward",
+    "vote_avg":7.628,
+    "vote_count":6779,
+    "directors":[
+      "Dan Scanlon"
+    ],
+    "release_date":"2020-02-29",
+    "runtime_minutes":102,
+    "genres":[
+      "Adventure",
+      "Animation",
+      "Comedy",
+      "Family",
+      "Fantasy"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":10.6279,
+    "budget":200000000,
+    "revenue":141888276,
+    "release_year":"2020",
+    "profit":-58111724
+  },
+  {
+    "id":337401,
+    "title":"Mulan",
+    "vote_avg":6.811,
+    "vote_count":7209,
+    "directors":[
+      "Niki Caro"
+    ],
+    "release_date":"2020-09-04",
+    "runtime_minutes":115,
+    "genres":[
+      "Adventure",
+      "Fantasy",
+      "Action"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":10.2902,
+    "budget":200000000,
+    "revenue":69965374,
+    "release_year":"2020",
+    "profit":-130034626
+  },
+  {
+    "id":441130,
+    "title":"Wolfwalkers",
+    "vote_avg":8.166,
+    "vote_count":1485,
+    "directors":[
+      "Tomm Moore",
+      "Ross Stewart"
+    ],
+    "release_date":"2020-10-26",
+    "runtime_minutes":102,
+    "genres":[
+      "Animation",
+      "Family",
+      "Adventure",
+      "Fantasy"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":9.5389,
+    "budget":12000000,
+    "revenue":1310720,
+    "release_year":"2020",
+    "profit":-10689280
+  },
+  {
+    "id":448119,
+    "title":"Dolittle",
+    "vote_avg":6.563,
+    "vote_count":3982,
+    "directors":[
+      "Stephen Gaghan"
+    ],
+    "release_date":"2020-01-02",
+    "runtime_minutes":101,
+    "genres":[
+      "Family",
+      "Comedy",
+      "Fantasy",
+      "Adventure"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":7.7298,
+    "budget":175000000,
+    "revenue":251410631,
+    "release_year":"2020",
+    "profit":76410631
+  },
+  {
+    "id":340102,
+    "title":"The New Mutants",
+    "vote_avg":6.041,
+    "vote_count":3868,
+    "directors":[
+      "Josh Boone"
+    ],
+    "release_date":"2020-08-26",
+    "runtime_minutes":94,
+    "genres":[
+      "Science Fiction",
+      "Horror"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":7.5437,
+    "budget":67000000,
+    "revenue":49169594,
+    "release_year":"2020",
+    "profit":-17830406
+  },
+  {
+    "id":443791,
+    "title":"Underwater",
+    "vote_avg":6.324,
+    "vote_count":3722,
+    "directors":[
+      "William Eubank"
+    ],
+    "release_date":"2020-01-08",
+    "runtime_minutes":95,
+    "genres":[
+      "Horror",
+      "Science Fiction",
+      "Action",
+      "Adventure"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":8.5936,
+    "budget":50000000,
+    "revenue":40882928,
+    "release_year":"2020",
+    "profit":-9117072
+  },
+  {
+    "id":570670,
+    "title":"The Invisible Man",
+    "vote_avg":7.078,
+    "vote_count":6552,
+    "directors":[
+      "Leigh Whannell"
+    ],
+    "release_date":"2020-02-26",
+    "runtime_minutes":124,
+    "genres":[
+      "Thriller",
+      "Science Fiction",
+      "Horror"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":8.4995,
+    "budget":7000000,
+    "revenue":144492724,
+    "release_year":"2020",
+    "profit":137492724
+  },
+  {
+    "id":600354,
+    "title":"The Father",
+    "vote_avg":8.089,
+    "vote_count":3839,
+    "directors":[
+      "Florian Zeller"
+    ],
+    "release_date":"2020-12-23",
+    "runtime_minutes":97,
+    "genres":[
+      "Drama"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":8.18,
+    "budget":6000000,
+    "revenue":21029340,
+    "release_year":"2020",
+    "profit":15029340
+  },
+  {
+    "id":400160,
+    "title":"The SpongeBob Movie: Sponge on the Run",
+    "vote_avg":7.386,
+    "vote_count":3049,
+    "directors":[
+      "Tim Hill"
+    ],
+    "release_date":"2020-08-14",
+    "runtime_minutes":95,
+    "genres":[
+      "Adventure",
+      "Animation",
+      "Comedy",
+      "Family",
+      "Fantasy"
+    ],
+    "franchise":"SpongeBob Collection",
+    "franchise_id":275402.0,
+    "popularity":7.8434,
+    "budget":60000000,
+    "revenue":4810790,
+    "release_year":"2020",
+    "profit":-55189210
+  },
+  {
+    "id":587792,
+    "title":"Palm Springs",
+    "vote_avg":7.338,
+    "vote_count":3989,
+    "directors":[
+      "Max Barbakow"
+    ],
+    "release_date":"2020-07-10",
+    "runtime_minutes":90,
+    "genres":[
+      "Comedy",
+      "Romance",
+      "Science Fiction"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":7.8428,
+    "budget":5000000,
+    "revenue":1818417,
+    "release_year":"2020",
+    "profit":-3181583
+  },
+  {
+    "id":481848,
+    "title":"The Call of the Wild",
+    "vote_avg":7.503,
+    "vote_count":4044,
+    "directors":[
+      "Chris Sanders"
+    ],
+    "release_date":"2020-02-19",
+    "runtime_minutes":100,
+    "genres":[
+      "Adventure",
+      "Family",
+      "Drama"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":7.7349,
+    "budget":109000000,
+    "revenue":111200000,
+    "release_year":"2020",
+    "profit":2200000
+  },
+  {
+    "id":425001,
+    "title":"The War with Grandpa",
+    "vote_avg":6.429,
+    "vote_count":1111,
+    "directors":[
+      "Tim Hill"
+    ],
+    "release_date":"2020-08-27",
+    "runtime_minutes":98,
+    "genres":[
+      "Comedy",
+      "Family"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":7.6459,
+    "budget":18000000,
+    "revenue":43387445,
+    "release_year":"2020",
+    "profit":25387445
+  },
+  {
+    "id":664413,
+    "title":"365 Days",
+    "vote_avg":6.981,
+    "vote_count":9625,
+    "directors":[
+      "Barbara Bia\u0142ow\u0105s",
+      "Tomasz Mandes"
+    ],
+    "release_date":"2020-02-07",
+    "runtime_minutes":114,
+    "genres":[
+      "Romance",
+      "Drama",
+      "Crime"
+    ],
+    "franchise":"365 Days Collection",
+    "franchise_id":829561.0,
+    "popularity":7.6167,
+    "budget":5000000,
+    "revenue":9458590,
+    "release_year":"2020",
+    "profit":4458590
+  },
+  {
+    "id":613504,
+    "title":"After We Collided",
+    "vote_avg":7.1,
+    "vote_count":5515,
+    "directors":[
+      "Roger Kumble"
+    ],
+    "release_date":"2020-09-02",
+    "runtime_minutes":105,
+    "genres":[
+      "Drama",
+      "Romance"
+    ],
+    "franchise":"After Collection",
+    "franchise_id":702624.0,
+    "popularity":7.5428,
+    "budget":14000000,
+    "revenue":47990414,
+    "release_year":"2020",
+    "profit":33990414
+  },
+  {
+    "id":556678,
+    "title":"Emma.",
+    "vote_avg":7.005,
+    "vote_count":2030,
+    "directors":[
+      "Autumn de Wilde"
+    ],
+    "release_date":"2020-02-13",
+    "runtime_minutes":125,
+    "genres":[
+      "Comedy",
+      "Romance",
+      "Drama"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":6.8682,
+    "budget":10000000,
+    "revenue":25200000,
+    "release_year":"2020",
+    "profit":15200000
+  },
+  {
+    "id":458576,
+    "title":"Monster Hunter",
+    "vote_avg":6.502,
+    "vote_count":3700,
+    "directors":[
+      "Paul W. S. Anderson"
+    ],
+    "release_date":"2020-12-03",
+    "runtime_minutes":103,
+    "genres":[
+      "Action",
+      "Fantasy"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":7.2885,
+    "budget":60000000,
+    "revenue":42145959,
+    "release_year":"2020",
+    "profit":-17854041
+  },
+  {
+    "id":460458,
+    "title":"Resident Evil: Welcome to Raccoon City",
+    "vote_avg":5.945,
+    "vote_count":2944,
+    "directors":[
+      "Johannes Roberts"
+    ],
+    "release_date":"2021-11-24",
+    "runtime_minutes":107,
+    "genres":[
+      "Action",
+      "Horror",
+      "Science Fiction"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":39.2201,
+    "budget":25000000,
+    "revenue":41914915,
+    "release_year":"2021",
+    "profit":16914915
+  },
+  {
+    "id":438631,
+    "title":"Dune",
+    "vote_avg":7.786,
+    "vote_count":15893,
+    "directors":[
+      "Denis Villeneuve"
+    ],
+    "release_date":"2021-09-15",
+    "runtime_minutes":155,
+    "genres":[
+      "Science Fiction",
+      "Adventure"
+    ],
+    "franchise":"Dune Collection",
+    "franchise_id":726871.0,
+    "popularity":44.2426,
+    "budget":165000000,
+    "revenue":410668500,
+    "release_year":"2021",
+    "profit":245668500
+  },
+  {
+    "id":634649,
+    "title":"Spider-Man: No Way Home",
+    "vote_avg":7.947,
+    "vote_count":23514,
+    "directors":[
+      "Jon Watts"
+    ],
+    "release_date":"2021-12-15",
+    "runtime_minutes":148,
+    "genres":[
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "franchise":"Spider-Man (MCU) Collection",
+    "franchise_id":531241.0,
+    "popularity":42.7997,
+    "budget":200000000,
+    "revenue":1921426073,
+    "release_year":"2021",
+    "profit":1721426073
+  },
+  {
+    "id":566525,
+    "title":"Shang-Chi and the Legend of the Ten Rings",
+    "vote_avg":7.481,
+    "vote_count":10914,
+    "directors":[
+      "Destin Daniel Cretton"
+    ],
+    "release_date":"2021-09-01",
+    "runtime_minutes":132,
+    "genres":[
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":24.2018,
+    "budget":150000000,
+    "revenue":432243292,
+    "release_year":"2021",
+    "profit":282243292
+  },
+  {
+    "id":624860,
+    "title":"The Matrix Resurrections",
+    "vote_avg":6.294,
+    "vote_count":6845,
+    "directors":[
+      "Lana Wachowski"
+    ],
+    "release_date":"2021-12-16",
+    "runtime_minutes":148,
+    "genres":[
+      "Science Fiction",
+      "Action",
+      "Adventure"
+    ],
+    "franchise":"The Matrix Collection",
+    "franchise_id":2344.0,
+    "popularity":23.1843,
+    "budget":190000000,
+    "revenue":156497322,
+    "release_year":"2021",
+    "profit":-33502678
+  },
+  {
+    "id":580489,
+    "title":"Venom: Let There Be Carnage",
+    "vote_avg":6.718,
+    "vote_count":11561,
+    "directors":[
+      "Andy Serkis"
+    ],
+    "release_date":"2021-09-30",
+    "runtime_minutes":97,
+    "genres":[
+      "Science Fiction",
+      "Action",
+      "Adventure"
+    ],
+    "franchise":"Venom Collection",
+    "franchise_id":558216.0,
+    "popularity":21.4374,
+    "budget":110000000,
+    "revenue":506863592,
+    "release_year":"2021",
+    "profit":396863592
+  },
+  {
+    "id":370172,
+    "title":"No Time to Die",
+    "vote_avg":7.338,
+    "vote_count":7538,
+    "directors":[
+      "Cary Joji Fukunaga"
+    ],
+    "release_date":"2021-09-29",
+    "runtime_minutes":163,
+    "genres":[
+      "Action",
+      "Thriller",
+      "Adventure"
+    ],
+    "franchise":"James Bond Collection",
+    "franchise_id":645.0,
+    "popularity":16.7447,
+    "budget":250000000,
+    "revenue":774153024,
+    "release_year":"2021",
+    "profit":524153024
+  },
+  {
+    "id":436969,
+    "title":"The Suicide Squad",
+    "vote_avg":7.436,
+    "vote_count":10061,
+    "directors":[
+      "James Gunn"
+    ],
+    "release_date":"2021-07-28",
+    "runtime_minutes":132,
+    "genres":[
+      "Action",
+      "Comedy",
+      "Adventure"
+    ],
+    "franchise":"Suicide Squad Collection",
+    "franchise_id":531242.0,
+    "popularity":18.8895,
+    "budget":185000000,
+    "revenue":168717425,
+    "release_year":"2021",
+    "profit":-16282575
+  },
+  {
+    "id":399566,
+    "title":"Godzilla vs. Kong",
+    "vote_avg":7.511,
+    "vote_count":10914,
+    "directors":[
+      "Adam Wingard"
+    ],
+    "release_date":"2021-03-24",
+    "runtime_minutes":114,
+    "genres":[
+      "Action",
+      "Science Fiction",
+      "Adventure"
+    ],
+    "franchise":"Godzilla Collection",
+    "franchise_id":535313.0,
+    "popularity":18.5044,
+    "budget":200000000,
+    "revenue":470116094,
+    "release_year":"2021",
+    "profit":270116094
+  },
+  {
+    "id":423108,
+    "title":"The Conjuring: The Devil Made Me Do It",
+    "vote_avg":7.324,
+    "vote_count":6791,
+    "directors":[
+      "Michael Chaves"
+    ],
+    "release_date":"2021-05-25",
+    "runtime_minutes":111,
+    "genres":[
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "franchise":"The Conjuring Collection",
+    "franchise_id":313086.0,
+    "popularity":17.4932,
+    "budget":39000000,
+    "revenue":206444123,
+    "release_year":"2021",
+    "profit":167444123
+  },
+  {
+    "id":497698,
+    "title":"Black Widow",
+    "vote_avg":7.141,
+    "vote_count":11787,
+    "directors":[
+      "Cate Shortland"
+    ],
+    "release_date":"2021-07-07",
+    "runtime_minutes":134,
+    "genres":[
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":17.4607,
+    "budget":200000000,
+    "revenue":379751131,
+    "release_year":"2021",
+    "profit":179751131
+  },
+  {
+    "id":568124,
+    "title":"Encanto",
+    "vote_avg":7.564,
+    "vote_count":10483,
+    "directors":[
+      "Byron Howard",
+      "Jared Bush"
+    ],
+    "release_date":"2021-11-24",
+    "runtime_minutes":102,
+    "genres":[
+      "Animation",
+      "Comedy",
+      "Family",
+      "Fantasy"
+    ],
+    "franchise":"Encanto Collection",
+    "franchise_id":1451277.0,
+    "popularity":15.5435,
+    "budget":150000000,
+    "revenue":261292688,
+    "release_year":"2021",
+    "profit":111292688
+  },
+  {
+    "id":637649,
+    "title":"Wrath of Man",
+    "vote_avg":7.572,
+    "vote_count":6404,
+    "directors":[
+      "Guy Ritchie"
+    ],
+    "release_date":"2021-04-22",
+    "runtime_minutes":119,
+    "genres":[
+      "Thriller",
+      "Crime",
+      "Drama"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":14.8024,
+    "budget":40000000,
+    "revenue":103966489,
+    "release_year":"2021",
+    "profit":63966489
+  },
+  {
+    "id":524434,
+    "title":"Eternals",
+    "vote_avg":6.741,
+    "vote_count":9546,
+    "directors":[
+      "Chlo\u00e9 Zhao"
+    ],
+    "release_date":"2021-11-03",
+    "runtime_minutes":156,
+    "genres":[
+      "Science Fiction",
+      "Action",
+      "Adventure"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":14.7676,
+    "budget":200000000,
+    "revenue":402064899,
+    "release_year":"2021",
+    "profit":202064899
+  },
+  {
+    "id":610253,
+    "title":"Halloween Kills",
+    "vote_avg":6.397,
+    "vote_count":3053,
+    "directors":[
+      "David Gordon Green"
+    ],
+    "release_date":"2021-10-14",
+    "runtime_minutes":105,
+    "genres":[
+      "Horror"
+    ],
+    "franchise":"Halloween Collection",
+    "franchise_id":91361.0,
+    "popularity":14.3106,
+    "budget":20000000,
+    "revenue":133423964,
+    "release_year":"2021",
+    "profit":113423964
+  },
+  {
+    "id":527774,
+    "title":"Raya and the Last Dragon",
+    "vote_avg":7.785,
+    "vote_count":7510,
+    "directors":[
+      "Carlos L\u00f3pez Estrada",
+      "Don Hall"
+    ],
+    "release_date":"2021-03-03",
+    "runtime_minutes":107,
+    "genres":[
+      "Animation",
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Family"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":13.746,
+    "budget":100000000,
+    "revenue":130423032,
+    "release_year":"2021",
+    "profit":30423032
+  },
+  {
+    "id":550988,
+    "title":"Free Guy",
+    "vote_avg":7.423,
+    "vote_count":10347,
+    "directors":[
+      "Shawn Levy"
+    ],
+    "release_date":"2021-08-11",
+    "runtime_minutes":115,
+    "genres":[
+      "Comedy",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":10.8797,
+    "budget":110000000,
+    "revenue":331526598,
+    "release_year":"2021",
+    "profit":221526598
+  },
+  {
+    "id":615457,
+    "title":"Nobody",
+    "vote_avg":7.854,
+    "vote_count":8897,
+    "directors":[
+      "Ilya Naishuller"
+    ],
+    "release_date":"2021-03-18",
+    "runtime_minutes":91,
+    "genres":[
+      "Action",
+      "Thriller"
+    ],
+    "franchise":"Nobody Collection",
+    "franchise_id":1129084.0,
+    "popularity":13.5977,
+    "budget":16000000,
+    "revenue":57512470,
+    "release_year":"2021",
+    "profit":41512470
+  },
+  {
+    "id":425909,
+    "title":"Ghostbusters: Afterlife",
+    "vote_avg":7.293,
+    "vote_count":5419,
+    "directors":[
+      "Jason Reitman"
+    ],
+    "release_date":"2021-11-18",
+    "runtime_minutes":124,
+    "genres":[
+      "Fantasy",
+      "Comedy",
+      "Adventure"
+    ],
+    "franchise":"Ghostbusters Collection",
+    "franchise_id":2980.0,
+    "popularity":13.4314,
+    "budget":75000000,
+    "revenue":204445747,
+    "release_year":"2021",
+    "profit":129445747
+  },
+  {
+    "id":337404,
+    "title":"Cruella",
+    "vote_avg":8.0,
+    "vote_count":10431,
+    "directors":[
+      "Craig Gillespie"
+    ],
+    "release_date":"2021-05-26",
+    "runtime_minutes":134,
+    "genres":[
+      "Comedy",
+      "Crime"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":11.6085,
+    "budget":200000000,
+    "revenue":233503234,
+    "release_year":"2021",
+    "profit":33503234
+  },
+  {
+    "id":776503,
+    "title":"CODA",
+    "vote_avg":7.87,
+    "vote_count":2776,
+    "directors":[
+      "Sian Heder"
+    ],
+    "release_date":"2021-08-13",
+    "runtime_minutes":112,
+    "genres":[
+      "Drama",
+      "Music",
+      "Romance"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":13.3181,
+    "budget":10000000,
+    "revenue":1905058,
+    "release_year":"2021",
+    "profit":-8094942
+  },
+  {
+    "id":460465,
+    "title":"Mortal Kombat",
+    "vote_avg":7.02,
+    "vote_count":7138,
+    "directors":[
+      "Simon McQuoid"
+    ],
+    "release_date":"2021-04-07",
+    "runtime_minutes":110,
+    "genres":[
+      "Action",
+      "Fantasy",
+      "Adventure"
+    ],
+    "franchise":"Mortal Kombat (Reboot) Collection",
+    "franchise_id":931431.0,
+    "popularity":13.0972,
+    "budget":20000000,
+    "revenue":84426031,
+    "release_year":"2021",
+    "profit":64426031
+  },
+  {
+    "id":379686,
+    "title":"Space Jam: A New Legacy",
+    "vote_avg":6.611,
+    "vote_count":4324,
+    "directors":[
+      "Malcolm D. Lee"
+    ],
+    "release_date":"2021-07-08",
+    "runtime_minutes":115,
+    "genres":[
+      "Family",
+      "Comedy",
+      "Adventure",
+      "Science Fiction",
+      "Animation"
+    ],
+    "franchise":"Space Jam Collection",
+    "franchise_id":722961.0,
+    "popularity":13.0932,
+    "budget":150000000,
+    "revenue":163692228,
+    "release_year":"2021",
+    "profit":13692228
+  },
+  {
+    "id":520763,
+    "title":"A Quiet Place Part II",
+    "vote_avg":7.427,
+    "vote_count":7762,
+    "directors":[
+      "John Krasinski"
+    ],
+    "release_date":"2021-05-21",
+    "runtime_minutes":97,
+    "genres":[
+      "Science Fiction",
+      "Thriller",
+      "Horror"
+    ],
+    "franchise":"A Quiet Place Collection",
+    "franchise_id":521226.0,
+    "popularity":12.3191,
+    "budget":55000000,
+    "revenue":297372261,
+    "release_year":"2021",
+    "profit":242372261
+  },
+  {
+    "id":476669,
+    "title":"The King's Man",
+    "vote_avg":6.703,
+    "vote_count":5323,
+    "directors":[
+      "Matthew Vaughn"
+    ],
+    "release_date":"2021-12-22",
+    "runtime_minutes":131,
+    "genres":[
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "franchise":"Kingsman Collection",
+    "franchise_id":391860.0,
+    "popularity":12.2866,
+    "budget":100000000,
+    "revenue":125897478,
+    "release_year":"2021",
+    "profit":25897478
+  },
+  {
+    "id":438695,
+    "title":"Sing 2",
+    "vote_avg":7.831,
+    "vote_count":4956,
+    "directors":[
+      "Garth Jennings"
+    ],
+    "release_date":"2021-12-01",
+    "runtime_minutes":110,
+    "genres":[
+      "Animation",
+      "Comedy",
+      "Family",
+      "Music"
+    ],
+    "franchise":"Sing Collection",
+    "franchise_id":544670.0,
+    "popularity":12.0426,
+    "budget":85000000,
+    "revenue":408402685,
+    "release_year":"2021",
+    "profit":323402685
+  },
+  {
+    "id":542178,
+    "title":"The French Dispatch of the Liberty, Kansas Evening Sun",
+    "vote_avg":7.007,
+    "vote_count":3150,
+    "directors":[
+      "Wes Anderson"
+    ],
+    "release_date":"2021-10-21",
+    "runtime_minutes":108,
+    "genres":[
+      "Drama",
+      "Comedy"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":11.6583,
+    "budget":25000000,
+    "revenue":46333545,
+    "release_year":"2021",
+    "profit":21333545
+  },
+  {
+    "id":508943,
+    "title":"Luca",
+    "vote_avg":7.768,
+    "vote_count":9220,
+    "directors":[
+      "Enrico Casarosa"
+    ],
+    "release_date":"2021-06-17",
+    "runtime_minutes":95,
+    "genres":[
+      "Animation",
+      "Family",
+      "Fantasy",
+      "Drama",
+      "Comedy"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":11.4872,
+    "budget":200000000,
+    "revenue":51074773,
+    "release_year":"2021",
+    "profit":-148925227
+  },
+  {
+    "id":588228,
+    "title":"The Tomorrow War",
+    "vote_avg":7.524,
+    "vote_count":4547,
+    "directors":[
+      "Chris McKay"
+    ],
+    "release_date":"2021-09-03",
+    "runtime_minutes":138,
+    "genres":[
+      "Action",
+      "Science Fiction",
+      "Adventure"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":11.444,
+    "budget":200000000,
+    "revenue":14400000,
+    "release_year":"2021",
+    "profit":-185600000
+  },
+  {
+    "id":744275,
+    "title":"After We Fell",
+    "vote_avg":6.992,
+    "vote_count":2790,
+    "directors":[
+      "Castille Landon"
+    ],
+    "release_date":"2021-09-01",
+    "runtime_minutes":99,
+    "genres":[
+      "Drama",
+      "Romance"
+    ],
+    "franchise":"After Collection",
+    "franchise_id":702624.0,
+    "popularity":11.1305,
+    "budget":14000000,
+    "revenue":21753705,
+    "release_year":"2021",
+    "profit":7753705
+  },
+  {
+    "id":459151,
+    "title":"The Boss Baby: Family Business",
+    "vote_avg":7.318,
+    "vote_count":2737,
+    "directors":[
+      "Tom McGrath"
+    ],
+    "release_date":"2021-07-01",
+    "runtime_minutes":107,
+    "genres":[
+      "Animation",
+      "Comedy",
+      "Adventure",
+      "Family"
+    ],
+    "franchise":"The Boss Baby Collection",
+    "franchise_id":519457.0,
+    "popularity":11.0556,
+    "budget":82000000,
+    "revenue":146745280,
+    "release_year":"2021",
+    "profit":64745280
+  },
+  {
+    "id":512195,
+    "title":"Red Notice",
+    "vote_avg":6.711,
+    "vote_count":6737,
+    "directors":[
+      "Rawson Marshall Thurber"
+    ],
+    "release_date":"2021-11-04",
+    "runtime_minutes":118,
+    "genres":[
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":10.9549,
+    "budget":160000000,
+    "revenue":178143,
+    "release_year":"2021",
+    "profit":-159821857
+  },
+  {
+    "id":675445,
+    "title":"PAW Patrol: The Movie",
+    "vote_avg":7.31,
+    "vote_count":1301,
+    "directors":[
+      "Cal Brunker"
+    ],
+    "release_date":"2021-08-09",
+    "runtime_minutes":86,
+    "genres":[
+      "Action",
+      "Adventure",
+      "Animation",
+      "Comedy",
+      "Family"
+    ],
+    "franchise":"PAW Patrol (Theatrical) Collection",
+    "franchise_id":893731.0,
+    "popularity":9.3193,
+    "budget":26000000,
+    "revenue":144327371,
+    "release_year":"2021",
+    "profit":118327371
+  },
+  {
+    "id":361743,
+    "title":"Top Gun: Maverick",
+    "vote_avg":8.158,
+    "vote_count":11862,
+    "directors":[
+      "Joseph Kosinski"
+    ],
+    "release_date":"2022-05-21",
+    "runtime_minutes":131,
+    "genres":[
+      "Action",
+      "Drama"
+    ],
+    "franchise":"Top Gun Collection",
+    "franchise_id":531330.0,
+    "popularity":42.0062,
+    "budget":170000000,
+    "revenue":1488732821,
+    "release_year":"2022",
+    "profit":1318732821
+  },
+  {
+    "id":985939,
+    "title":"Fall",
+    "vote_avg":7.156,
+    "vote_count":5067,
+    "directors":[
+      "Scott Mann"
+    ],
+    "release_date":"2022-08-11",
+    "runtime_minutes":107,
+    "genres":[
+      "Thriller"
+    ],
+    "franchise":"Fall Collection",
+    "franchise_id":1102372.0,
+    "popularity":35.4653,
+    "budget":3000000,
+    "revenue":17363261,
+    "release_year":"2022",
+    "profit":14363261
+  },
+  {
+    "id":414906,
+    "title":"The Batman",
+    "vote_avg":7.7,
+    "vote_count":12835,
+    "directors":[
+      "Matt Reeves"
+    ],
+    "release_date":"2022-03-01",
+    "runtime_minutes":177,
+    "genres":[
+      "Crime",
+      "Mystery",
+      "Thriller"
+    ],
+    "franchise":"The Batman Collection",
+    "franchise_id":948485.0,
+    "popularity":31.8508,
+    "budget":185000000,
+    "revenue":772775278,
+    "release_year":"2022",
+    "profit":587775278
+  },
+  {
+    "id":760104,
+    "title":"X",
+    "vote_avg":6.69,
+    "vote_count":4233,
+    "directors":[
+      "Ti West"
+    ],
+    "release_date":"2022-03-17",
+    "runtime_minutes":106,
+    "genres":[
+      "Horror"
+    ],
+    "franchise":"X Collection",
+    "franchise_id":950289.0,
+    "popularity":28.8463,
+    "budget":1000000,
+    "revenue":14745049,
+    "release_year":"2022",
+    "profit":13745049
+  },
+  {
+    "id":453395,
+    "title":"Doctor Strange in the Multiverse of Madness",
+    "vote_avg":7.219,
+    "vote_count":11083,
+    "directors":[
+      "Sam Raimi"
+    ],
+    "release_date":"2022-05-04",
+    "runtime_minutes":126,
+    "genres":[
+      "Fantasy",
+      "Action",
+      "Adventure"
+    ],
+    "franchise":"Doctor Strange Collection",
+    "franchise_id":618529.0,
+    "popularity":26.5873,
+    "budget":295400000,
+    "revenue":955775804,
+    "release_year":"2022",
+    "profit":660375804
+  },
+  {
+    "id":76600,
+    "title":"Avatar: The Way of Water",
+    "vote_avg":7.579,
+    "vote_count":14857,
+    "directors":[
+      "James Cameron"
+    ],
+    "release_date":"2022-12-14",
+    "runtime_minutes":192,
+    "genres":[
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "franchise":"Avatar Collection",
+    "franchise_id":87096.0,
+    "popularity":23.026,
+    "budget":460000000,
+    "revenue":2334484620,
+    "release_year":"2022",
+    "profit":1874484620
+  },
+  {
+    "id":315162,
+    "title":"Puss in Boots: The Last Wish",
+    "vote_avg":8.218,
+    "vote_count":9364,
+    "directors":[
+      "Joel Crawford"
+    ],
+    "release_date":"2022-12-07",
+    "runtime_minutes":103,
+    "genres":[
+      "Animation",
+      "Adventure",
+      "Fantasy",
+      "Comedy",
+      "Family"
+    ],
+    "franchise":"Puss in Boots Collection",
+    "franchise_id":94602.0,
+    "popularity":22.2665,
+    "budget":90000000,
+    "revenue":484700000,
+    "release_year":"2022",
+    "profit":394700000
+  },
+  {
+    "id":545611,
+    "title":"Everything Everywhere All at Once",
+    "vote_avg":7.7,
+    "vote_count":8622,
+    "directors":[
+      "Daniel Scheinert",
+      "Daniel Kwan"
+    ],
+    "release_date":"2022-03-24",
+    "runtime_minutes":140,
+    "genres":[
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":20.0062,
+    "budget":25000000,
+    "revenue":139200000,
+    "release_year":"2022",
+    "profit":114200000
+  },
+  {
+    "id":505642,
+    "title":"Black Panther: Wakanda Forever",
+    "vote_avg":6.983,
+    "vote_count":7922,
+    "directors":[
+      "Ryan Coogler"
+    ],
+    "release_date":"2022-11-09",
+    "runtime_minutes":162,
+    "genres":[
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "franchise":"Black Panther Collection",
+    "franchise_id":529892.0,
+    "popularity":19.141,
+    "budget":250000000,
+    "revenue":859102154,
+    "release_year":"2022",
+    "profit":609102154
+  },
+  {
+    "id":616037,
+    "title":"Thor: Love and Thunder",
+    "vote_avg":6.347,
+    "vote_count":9126,
+    "directors":[
+      "Taika Waititi"
+    ],
+    "release_date":"2022-07-06",
+    "runtime_minutes":119,
+    "genres":[
+      "Fantasy",
+      "Action",
+      "Comedy"
+    ],
+    "franchise":"Thor Collection",
+    "franchise_id":131296.0,
+    "popularity":18.0005,
+    "budget":250000000,
+    "revenue":760928081,
+    "release_year":"2022",
+    "profit":510928081
+  },
+  {
+    "id":438148,
+    "title":"Minions: The Rise of Gru",
+    "vote_avg":7.256,
+    "vote_count":4244,
+    "directors":[
+      "Kyle Balda"
+    ],
+    "release_date":"2022-06-29",
+    "runtime_minutes":87,
+    "genres":[
+      "Animation",
+      "Comedy",
+      "Crime",
+      "Science Fiction",
+      "Family"
+    ],
+    "franchise":"Minions Collection",
+    "franchise_id":544669.0,
+    "popularity":17.7824,
+    "budget":85000000,
+    "revenue":940203765,
+    "release_year":"2022",
+    "profit":855203765
+  },
+  {
+    "id":718930,
+    "title":"Bullet Train",
+    "vote_avg":7.405,
+    "vote_count":8135,
+    "directors":[
+      "David Leitch"
+    ],
+    "release_date":"2022-08-03",
+    "runtime_minutes":126,
+    "genres":[
+      "Action",
+      "Comedy",
+      "Thriller"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":17.6491,
+    "budget":90000000,
+    "revenue":239268602,
+    "release_year":"2022",
+    "profit":149268602
+  },
+  {
+    "id":436270,
+    "title":"Black Adam",
+    "vote_avg":6.746,
+    "vote_count":7374,
+    "directors":[
+      "Jaume Collet-Serra"
+    ],
+    "release_date":"2022-10-19",
+    "runtime_minutes":125,
+    "genres":[
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":17.5571,
+    "budget":200000000,
+    "revenue":393452111,
+    "release_year":"2022",
+    "profit":193452111
+  },
+  {
+    "id":663712,
+    "title":"Terrifier 2",
+    "vote_avg":6.641,
+    "vote_count":2642,
+    "directors":[
+      "Damien Leone"
+    ],
+    "release_date":"2022-10-06",
+    "runtime_minutes":138,
+    "genres":[
+      "Horror"
+    ],
+    "franchise":"Terrifier Collection",
+    "franchise_id":727761.0,
+    "popularity":17.5428,
+    "budget":250000,
+    "revenue":15815602,
+    "release_year":"2022",
+    "profit":15565602
+  },
+  {
+    "id":508947,
+    "title":"Turning Red",
+    "vote_avg":7.321,
+    "vote_count":6117,
+    "directors":[
+      "Domee Shi"
+    ],
+    "release_date":"2022-03-10",
+    "runtime_minutes":100,
+    "genres":[
+      "Animation",
+      "Family",
+      "Comedy",
+      "Fantasy"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":16.4801,
+    "budget":175000000,
+    "revenue":21813358,
+    "release_year":"2022",
+    "profit":-153186642
+  },
+  {
+    "id":507086,
+    "title":"Jurassic World Dominion",
+    "vote_avg":6.6,
+    "vote_count":7389,
+    "directors":[
+      "Colin Trevorrow"
+    ],
+    "release_date":"2022-06-01",
+    "runtime_minutes":147,
+    "genres":[
+      "Adventure",
+      "Science Fiction",
+      "Thriller"
+    ],
+    "franchise":"Jurassic Park Collection",
+    "franchise_id":328.0,
+    "popularity":15.6058,
+    "budget":658800000,
+    "revenue":1004004592,
+    "release_year":"2022",
+    "profit":345204592
+  },
+  {
+    "id":646385,
+    "title":"Scream",
+    "vote_avg":6.674,
+    "vote_count":4091,
+    "directors":[
+      "Tyler Gillett",
+      "Matt Bettinelli-Olpin"
+    ],
+    "release_date":"2022-01-12",
+    "runtime_minutes":114,
+    "genres":[
+      "Horror",
+      "Mystery"
+    ],
+    "franchise":"Scream Collection",
+    "franchise_id":2602.0,
+    "popularity":15.3362,
+    "budget":24000000,
+    "revenue":138874789,
+    "release_year":"2022",
+    "profit":114874789
+  },
+  {
+    "id":335787,
+    "title":"Uncharted",
+    "vote_avg":6.9,
+    "vote_count":7279,
+    "directors":[
+      "Ruben Fleischer"
+    ],
+    "release_date":"2022-02-10",
+    "runtime_minutes":116,
+    "genres":[
+      "Action",
+      "Adventure",
+      "Mystery"
+    ],
+    "franchise":"Uncharted Collection",
+    "franchise_id":1216426.0,
+    "popularity":14.8974,
+    "budget":120000000,
+    "revenue":407141258,
+    "release_year":"2022",
+    "profit":287141258
+  },
+  {
+    "id":585083,
+    "title":"Hotel Transylvania: Transformania",
+    "vote_avg":7.027,
+    "vote_count":3147,
+    "directors":[
+      "Derek Drymon",
+      "Jennifer Kluska"
+    ],
+    "release_date":"2022-01-31",
+    "runtime_minutes":92,
+    "genres":[
+      "Animation",
+      "Comedy",
+      "Family",
+      "Adventure",
+      "Fantasy"
+    ],
+    "franchise":"Hotel Transylvania Collection",
+    "franchise_id":185103.0,
+    "popularity":14.622,
+    "budget":75000000,
+    "revenue":18500000,
+    "release_year":"2022",
+    "profit":-56500000
+  },
+  {
+    "id":616820,
+    "title":"Halloween Ends",
+    "vote_avg":6.017,
+    "vote_count":2147,
+    "directors":[
+      "David Gordon Green"
+    ],
+    "release_date":"2022-10-12",
+    "runtime_minutes":111,
+    "genres":[
+      "Horror",
+      "Thriller"
+    ],
+    "franchise":"Halloween Collection",
+    "franchise_id":91361.0,
+    "popularity":14.1567,
+    "budget":30000000,
+    "revenue":105400796,
+    "release_year":"2022",
+    "profit":75400796
+  },
+  {
+    "id":629542,
+    "title":"The Bad Guys",
+    "vote_avg":7.508,
+    "vote_count":2739,
+    "directors":[
+      "Pierre Perifel"
+    ],
+    "release_date":"2022-03-17",
+    "runtime_minutes":100,
+    "genres":[
+      "Action",
+      "Adventure",
+      "Animation",
+      "Comedy",
+      "Crime",
+      "Family"
+    ],
+    "franchise":"The Bad Guys Collection",
+    "franchise_id":1231053.0,
+    "popularity":13.9341,
+    "budget":80000000,
+    "revenue":250162278,
+    "release_year":"2022",
+    "profit":170162278
+  },
+  {
+    "id":913290,
+    "title":"Barbarian",
+    "vote_avg":6.881,
+    "vote_count":3685,
+    "directors":[
+      "Zach Cregger"
+    ],
+    "release_date":"2022-08-29",
+    "runtime_minutes":103,
+    "genres":[
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":13.6997,
+    "budget":4500000,
+    "revenue":45400000,
+    "release_year":"2022",
+    "profit":40900000
+  },
+  {
+    "id":338953,
+    "title":"Fantastic Beasts: The Secrets of Dumbledore",
+    "vote_avg":6.617,
+    "vote_count":5342,
+    "directors":[
+      "David Yates"
+    ],
+    "release_date":"2022-04-06",
+    "runtime_minutes":142,
+    "genres":[
+      "Fantasy",
+      "Adventure"
+    ],
+    "franchise":"Fantastic Beasts Collection",
+    "franchise_id":435259.0,
+    "popularity":13.5029,
+    "budget":200000000,
+    "revenue":407200000,
+    "release_year":"2022",
+    "profit":207200000
+  },
+  {
+    "id":882598,
+    "title":"Smile",
+    "vote_avg":6.665,
+    "vote_count":4371,
+    "directors":[
+      "Parker Finn"
+    ],
+    "release_date":"2022-09-23",
+    "runtime_minutes":115,
+    "genres":[
+      "Horror",
+      "Mystery"
+    ],
+    "franchise":"Smile Collection",
+    "franchise_id":1100788.0,
+    "popularity":13.1952,
+    "budget":17000000,
+    "revenue":217408513,
+    "release_year":"2022",
+    "profit":200408513
+  },
+  {
+    "id":593643,
+    "title":"The Menu",
+    "vote_avg":7.18,
+    "vote_count":6856,
+    "directors":[
+      "Mark Mylod"
+    ],
+    "release_date":"2022-11-17",
+    "runtime_minutes":107,
+    "genres":[
+      "Comedy",
+      "Horror"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":12.9932,
+    "budget":35000000,
+    "revenue":79628200,
+    "release_year":"2022",
+    "profit":44628200
+  },
+  {
+    "id":615777,
+    "title":"Babylon",
+    "vote_avg":7.3,
+    "vote_count":4016,
+    "directors":[
+      "Damien Chazelle"
+    ],
+    "release_date":"2022-12-22",
+    "runtime_minutes":189,
+    "genres":[
+      "Drama",
+      "Comedy"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":12.9875,
+    "budget":78000000,
+    "revenue":65267446,
+    "release_year":"2022",
+    "profit":-12732554
+  },
+  {
+    "id":675353,
+    "title":"Sonic the Hedgehog 2",
+    "vote_avg":7.409,
+    "vote_count":6077,
+    "directors":[
+      "Jeff Fowler"
+    ],
+    "release_date":"2022-03-30",
+    "runtime_minutes":123,
+    "genres":[
+      "Action",
+      "Adventure",
+      "Family",
+      "Comedy"
+    ],
+    "franchise":"Sonic the Hedgehog Collection",
+    "franchise_id":720879.0,
+    "popularity":12.8072,
+    "budget":110000000,
+    "revenue":405421518,
+    "release_year":"2022",
+    "profit":295421518
+  },
+  {
+    "id":505026,
+    "title":"Death on the Nile",
+    "vote_avg":6.408,
+    "vote_count":4447,
+    "directors":[
+      "Kenneth Branagh"
+    ],
+    "release_date":"2022-02-09",
+    "runtime_minutes":127,
+    "genres":[
+      "Mystery",
+      "Crime",
+      "Thriller"
+    ],
+    "franchise":"Hercule Poirot (Kenneth Branagh) Collection",
+    "franchise_id":735384.0,
+    "popularity":11.8143,
+    "budget":90000000,
+    "revenue":137307235,
+    "release_year":"2022",
+    "profit":47307235
+  },
+  {
+    "id":661374,
+    "title":"Glass Onion: A Knives Out Mystery",
+    "vote_avg":7.019,
+    "vote_count":7359,
+    "directors":[
+      "Rian Johnson"
+    ],
+    "release_date":"2022-11-23",
+    "runtime_minutes":140,
+    "genres":[
+      "Comedy",
+      "Crime",
+      "Mystery"
+    ],
+    "franchise":"Knives Out Collection",
+    "franchise_id":722971.0,
+    "popularity":11.4622,
+    "budget":40000000,
+    "revenue":15000000,
+    "release_year":"2022",
+    "profit":-25000000
+  },
+  {
+    "id":949423,
+    "title":"Pearl",
+    "vote_avg":7.223,
+    "vote_count":2825,
+    "directors":[
+      "Ti West"
+    ],
+    "release_date":"2022-09-16",
+    "runtime_minutes":102,
+    "genres":[
+      "Horror",
+      "Drama"
+    ],
+    "franchise":"X Collection",
+    "franchise_id":950289.0,
+    "popularity":11.4464,
+    "budget":1000000,
+    "revenue":9847490,
+    "release_year":"2022",
+    "profit":8847490
+  },
+  {
+    "id":539681,
+    "title":"DC League of Super-Pets",
+    "vote_avg":7.133,
+    "vote_count":1800,
+    "directors":[
+      "Jared Stern"
+    ],
+    "release_date":"2022-07-27",
+    "runtime_minutes":105,
+    "genres":[
+      "Family",
+      "Comedy",
+      "Adventure",
+      "Animation",
+      "Science Fiction",
+      "Action"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":11.1476,
+    "budget":90000000,
+    "revenue":203000000,
+    "release_year":"2022",
+    "profit":113000000
+  },
+  {
+    "id":899112,
+    "title":"Violent Night",
+    "vote_avg":7.202,
+    "vote_count":2698,
+    "directors":[
+      "Tommy Wirkola"
+    ],
+    "release_date":"2022-11-30",
+    "runtime_minutes":112,
+    "genres":[
+      "Action",
+      "Comedy",
+      "Fantasy"
+    ],
+    "franchise":"Violent Night Collection",
+    "franchise_id":1078456.0,
+    "popularity":10.8254,
+    "budget":20000000,
+    "revenue":75734910,
+    "release_year":"2022",
+    "profit":55734910
+  },
+  {
+    "id":579974,
+    "title":"RRR",
+    "vote_avg":7.719,
+    "vote_count":1746,
+    "directors":[
+      "S. S. Rajamouli"
+    ],
+    "release_date":"2022-03-24",
+    "runtime_minutes":187,
+    "genres":[
+      "Action",
+      "History",
+      "Drama"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":10.7018,
+    "budget":69000000,
+    "revenue":166602994,
+    "release_year":"2022",
+    "profit":97602994
+  },
+  {
+    "id":872585,
+    "title":"Oppenheimer",
+    "vote_avg":8.023,
+    "vote_count":12842,
+    "directors":[
+      "Christopher Nolan"
+    ],
+    "release_date":"2023-07-19",
+    "runtime_minutes":181,
+    "genres":[
+      "Drama",
+      "History",
+      "War"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":42.5721,
+    "budget":100000000,
+    "revenue":952000000,
+    "release_year":"2023",
+    "profit":852000000
+  },
+  {
+    "id":569094,
+    "title":"Spider-Man: Across the Spider-Verse",
+    "vote_avg":8.349,
+    "vote_count":9514,
+    "directors":[
+      "Kemp Powers",
+      "Justin K. Thompson",
+      "Joaquim Dos Santos"
+    ],
+    "release_date":"2023-05-31",
+    "runtime_minutes":140,
+    "genres":[
+      "Animation",
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "franchise":"Spider-Man: Spider-Verse Collection",
+    "franchise_id":573436.0,
+    "popularity":33.9896,
+    "budget":100000000,
+    "revenue":690897910,
+    "release_year":"2023",
+    "profit":590897910
+  },
+  {
+    "id":940721,
+    "title":"Godzilla Minus One",
+    "vote_avg":7.61,
+    "vote_count":3584,
+    "directors":[
+      "Takashi Yamazaki"
+    ],
+    "release_date":"2023-11-03",
+    "runtime_minutes":125,
+    "genres":[
+      "Science Fiction",
+      "Horror",
+      "Action"
+    ],
+    "franchise":"Godzilla Minus Collection",
+    "franchise_id":1474814.0,
+    "popularity":33.3356,
+    "budget":15000000,
+    "revenue":113676322,
+    "release_year":"2023",
+    "profit":98676322
+  },
+  {
+    "id":572802,
+    "title":"Aquaman and the Lost Kingdom",
+    "vote_avg":6.478,
+    "vote_count":3751,
+    "directors":[
+      "James Wan"
+    ],
+    "release_date":"2023-12-20",
+    "runtime_minutes":124,
+    "genres":[
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "franchise":"Aquaman Collection",
+    "franchise_id":573693.0,
+    "popularity":29.0472,
+    "budget":205000000,
+    "revenue":440181226,
+    "release_year":"2023",
+    "profit":235181226
+  },
+  {
+    "id":502356,
+    "title":"The Super Mario Bros. Movie",
+    "vote_avg":7.585,
+    "vote_count":11306,
+    "directors":[
+      "Aaron Horvath",
+      "Michael Jelenic"
+    ],
+    "release_date":"2023-04-05",
+    "runtime_minutes":93,
+    "genres":[
+      "Family",
+      "Comedy",
+      "Adventure",
+      "Fantasy",
+      "Animation"
+    ],
+    "franchise":"The Super Mario Collection",
+    "franchise_id":1434561.0,
+    "popularity":28.3922,
+    "budget":100000000,
+    "revenue":1360879735,
+    "release_year":"2023",
+    "profit":1260879735
+  },
+  {
+    "id":603692,
+    "title":"John Wick: Chapter 4",
+    "vote_avg":7.71,
+    "vote_count":8510,
+    "directors":[
+      "Chad Stahelski"
+    ],
+    "release_date":"2023-03-21",
+    "runtime_minutes":170,
+    "genres":[
+      "Action",
+      "Thriller",
+      "Crime"
+    ],
+    "franchise":"John Wick Collection",
+    "franchise_id":404609.0,
+    "popularity":28.3407,
+    "budget":100000000,
+    "revenue":447316405,
+    "release_year":"2023",
+    "profit":347316405
+  },
+  {
+    "id":447365,
+    "title":"Guardians of the Galaxy Vol. 3",
+    "vote_avg":7.931,
+    "vote_count":9066,
+    "directors":[
+      "James Gunn"
+    ],
+    "release_date":"2023-05-03",
+    "runtime_minutes":150,
+    "genres":[
+      "Science Fiction",
+      "Adventure",
+      "Action"
+    ],
+    "franchise":"Guardians of the Galaxy Collection",
+    "franchise_id":284433.0,
+    "popularity":25.5192,
+    "budget":250000000,
+    "revenue":845550000,
+    "release_year":"2023",
+    "profit":595550000
+  },
+  {
+    "id":346698,
+    "title":"Barbie",
+    "vote_avg":6.903,
+    "vote_count":11778,
+    "directors":[
+      "Greta Gerwig"
+    ],
+    "release_date":"2023-07-19",
+    "runtime_minutes":114,
+    "genres":[
+      "Comedy",
+      "Adventure",
+      "Fantasy"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":25.02,
+    "budget":145000000,
+    "revenue":1447138421,
+    "release_year":"2023",
+    "profit":1302138421
+  },
+  {
+    "id":695721,
+    "title":"The Hunger Games: The Ballad of Songbirds & Snakes",
+    "vote_avg":6.951,
+    "vote_count":3776,
+    "directors":[
+      "Francis Lawrence"
+    ],
+    "release_date":"2023-11-15",
+    "runtime_minutes":157,
+    "genres":[
+      "Science Fiction",
+      "Action"
+    ],
+    "franchise":"The Hunger Games \u2013 New Trilogy Collection",
+    "franchise_id":1701563.0,
+    "popularity":24.0136,
+    "budget":100000000,
+    "revenue":337371917,
+    "release_year":"2023",
+    "profit":237371917
+  },
+  {
+    "id":385687,
+    "title":"Fast X",
+    "vote_avg":6.961,
+    "vote_count":6625,
+    "directors":[
+      "Louis Leterrier"
+    ],
+    "release_date":"2023-05-17",
+    "runtime_minutes":142,
+    "genres":[
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "franchise":"The Fast and the Furious Collection",
+    "franchise_id":9485.0,
+    "popularity":23.2841,
+    "budget":340000000,
+    "revenue":704709660,
+    "release_year":"2023",
+    "profit":364709660
+  },
+  {
+    "id":466420,
+    "title":"Killers of the Flower Moon",
+    "vote_avg":7.391,
+    "vote_count":4457,
+    "directors":[
+      "Martin Scorsese"
+    ],
+    "release_date":"2023-10-18",
+    "runtime_minutes":206,
+    "genres":[
+      "Crime",
+      "History",
+      "Drama"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":19.8403,
+    "budget":200000000,
+    "revenue":158722599,
+    "release_year":"2023",
+    "profit":-41277401
+  },
+  {
+    "id":1072790,
+    "title":"Anyone but You",
+    "vote_avg":6.737,
+    "vote_count":3298,
+    "directors":[
+      "Will Gluck"
+    ],
+    "release_date":"2023-12-21",
+    "runtime_minutes":103,
+    "genres":[
+      "Romance",
+      "Comedy"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":18.2855,
+    "budget":25000000,
+    "revenue":214891370,
+    "release_year":"2023",
+    "profit":189891370
+  },
+  {
+    "id":667538,
+    "title":"Transformers: Rise of the Beasts",
+    "vote_avg":7.149,
+    "vote_count":5517,
+    "directors":[
+      "Steven Caple Jr."
+    ],
+    "release_date":"2023-06-06",
+    "runtime_minutes":127,
+    "genres":[
+      "Science Fiction",
+      "Adventure",
+      "Action"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":17.8653,
+    "budget":195000000,
+    "revenue":441381193,
+    "release_year":"2023",
+    "profit":246381193
+  },
+  {
+    "id":299054,
+    "title":"Expend4bles",
+    "vote_avg":6.003,
+    "vote_count":2011,
+    "directors":[
+      "Scott Waugh"
+    ],
+    "release_date":"2023-09-15",
+    "runtime_minutes":103,
+    "genres":[
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "franchise":"The Expendables Collection",
+    "franchise_id":126125.0,
+    "popularity":14.6443,
+    "budget":100000000,
+    "revenue":37917985,
+    "release_year":"2023",
+    "profit":-62082015
+  },
+  {
+    "id":792307,
+    "title":"Poor Things",
+    "vote_avg":7.622,
+    "vote_count":5903,
+    "directors":[
+      "Yorgos Lanthimos"
+    ],
+    "release_date":"2023-12-07",
+    "runtime_minutes":141,
+    "genres":[
+      "Science Fiction",
+      "Romance",
+      "Comedy"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":17.3329,
+    "budget":35000000,
+    "revenue":117607117,
+    "release_year":"2023",
+    "profit":82607117
+  },
+  {
+    "id":934433,
+    "title":"Scream VI",
+    "vote_avg":6.908,
+    "vote_count":3401,
+    "directors":[
+      "Matt Bettinelli-Olpin",
+      "Tyler Gillett"
+    ],
+    "release_date":"2023-03-08",
+    "runtime_minutes":123,
+    "genres":[
+      "Horror",
+      "Thriller",
+      "Crime"
+    ],
+    "franchise":"Scream Collection",
+    "franchise_id":2602.0,
+    "popularity":14.4987,
+    "budget":33000000,
+    "revenue":169063850,
+    "release_year":"2023",
+    "profit":136063850
+  },
+  {
+    "id":893723,
+    "title":"PAW Patrol: The Mighty Movie",
+    "vote_avg":6.993,
+    "vote_count":613,
+    "directors":[
+      "Cal Brunker"
+    ],
+    "release_date":"2023-09-21",
+    "runtime_minutes":88,
+    "genres":[
+      "Adventure",
+      "Animation",
+      "Comedy",
+      "Science Fiction",
+      "Family",
+      "Action"
+    ],
+    "franchise":"PAW Patrol (Theatrical) Collection",
+    "franchise_id":893731.0,
+    "popularity":16.5361,
+    "budget":30000000,
+    "revenue":202231360,
+    "release_year":"2023",
+    "profit":172231360
+  },
+  {
+    "id":713704,
+    "title":"Evil Dead Rise",
+    "vote_avg":6.948,
+    "vote_count":4104,
+    "directors":[
+      "Lee Cronin"
+    ],
+    "release_date":"2023-04-12",
+    "runtime_minutes":96,
+    "genres":[
+      "Horror",
+      "Thriller"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":15.8617,
+    "budget":15000000,
+    "revenue":147256372,
+    "release_year":"2023",
+    "profit":132256372
+  },
+  {
+    "id":976573,
+    "title":"Elemental",
+    "vote_avg":7.584,
+    "vote_count":5634,
+    "directors":[
+      "Peter Sohn"
+    ],
+    "release_date":"2023-06-14",
+    "runtime_minutes":102,
+    "genres":[
+      "Animation",
+      "Comedy",
+      "Family",
+      "Romance"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":15.5454,
+    "budget":200000000,
+    "revenue":496444308,
+    "release_year":"2023",
+    "profit":296444308
+  },
+  {
+    "id":640146,
+    "title":"Ant-Man and the Wasp: Quantumania",
+    "vote_avg":6.195,
+    "vote_count":6240,
+    "directors":[
+      "Peyton Reed"
+    ],
+    "release_date":"2023-02-15",
+    "runtime_minutes":125,
+    "genres":[
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "franchise":"Ant-Man Collection",
+    "franchise_id":422834.0,
+    "popularity":15.5402,
+    "budget":200000000,
+    "revenue":476071180,
+    "release_year":"2023",
+    "profit":276071180
+  },
+  {
+    "id":915935,
+    "title":"Anatomy of a Fall",
+    "vote_avg":7.507,
+    "vote_count":3566,
+    "directors":[
+      "Justine Triet"
+    ],
+    "release_date":"2023-08-23",
+    "runtime_minutes":151,
+    "genres":[
+      "Thriller",
+      "Mystery",
+      "Crime"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":15.2027,
+    "budget":6600000,
+    "revenue":36000000,
+    "release_year":"2023",
+    "profit":29400000
+  },
+  {
+    "id":507089,
+    "title":"Five Nights at Freddy's",
+    "vote_avg":7.257,
+    "vote_count":5269,
+    "directors":[
+      "Emma Tammi"
+    ],
+    "release_date":"2023-10-25",
+    "runtime_minutes":110,
+    "genres":[
+      "Horror",
+      "Thriller"
+    ],
+    "franchise":"Five Nights at Freddy's Collection",
+    "franchise_id":1240438.0,
+    "popularity":15.1951,
+    "budget":20000000,
+    "revenue":298267333,
+    "release_year":"2023",
+    "profit":278267333
+  },
+  {
+    "id":575264,
+    "title":"Mission: Impossible - Dead Reckoning Part One",
+    "vote_avg":7.5,
+    "vote_count":5501,
+    "directors":[
+      "Christopher McQuarrie"
+    ],
+    "release_date":"2023-07-08",
+    "runtime_minutes":164,
+    "genres":[
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "franchise":"Mission: Impossible Collection",
+    "franchise_id":87359.0,
+    "popularity":14.9717,
+    "budget":220000000,
+    "revenue":571125435,
+    "release_year":"2023",
+    "profit":351125435
+  },
+  {
+    "id":447277,
+    "title":"The Little Mermaid",
+    "vote_avg":6.251,
+    "vote_count":3455,
+    "directors":[
+      "Rob Marshall"
+    ],
+    "release_date":"2023-05-18",
+    "runtime_minutes":135,
+    "genres":[
+      "Adventure",
+      "Family",
+      "Fantasy",
+      "Romance"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":14.8476,
+    "budget":297000000,
+    "revenue":569626289,
+    "release_year":"2023",
+    "profit":272626289
+  },
+  {
+    "id":335977,
+    "title":"Indiana Jones and the Dial of Destiny",
+    "vote_avg":6.49,
+    "vote_count":4473,
+    "directors":[
+      "James Mangold"
+    ],
+    "release_date":"2023-06-25",
+    "runtime_minutes":155,
+    "genres":[
+      "Adventure",
+      "Action"
+    ],
+    "franchise":"Indiana Jones Collection",
+    "franchise_id":84.0,
+    "popularity":14.2031,
+    "budget":294700000,
+    "revenue":383963057,
+    "release_year":"2023",
+    "profit":89263057
+  },
+  {
+    "id":508883,
+    "title":"The Boy and the Heron",
+    "vote_avg":7.4,
+    "vote_count":2896,
+    "directors":[
+      "Hayao Miyazaki"
+    ],
+    "release_date":"2023-07-14",
+    "runtime_minutes":124,
+    "genres":[
+      "Animation",
+      "Fantasy",
+      "Drama"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":13.8691,
+    "budget":50000000,
+    "revenue":295611188,
+    "release_year":"2023",
+    "profit":245611188
+  },
+  {
+    "id":298618,
+    "title":"The Flash",
+    "vote_avg":6.593,
+    "vote_count":5377,
+    "directors":[
+      "Andy Muschietti"
+    ],
+    "release_date":"2023-06-13",
+    "runtime_minutes":144,
+    "genres":[
+      "Action",
+      "Science Fiction",
+      "Adventure"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":13.7872,
+    "budget":220000000,
+    "revenue":271333313,
+    "release_year":"2023",
+    "profit":51333313
+  },
+  {
+    "id":926393,
+    "title":"The Equalizer 3",
+    "vote_avg":7.287,
+    "vote_count":4022,
+    "directors":[
+      "Antoine Fuqua"
+    ],
+    "release_date":"2023-08-30",
+    "runtime_minutes":109,
+    "genres":[
+      "Action",
+      "Thriller",
+      "Crime"
+    ],
+    "franchise":"The Equalizer Collection",
+    "franchise_id":523855.0,
+    "popularity":11.1471,
+    "budget":70000000,
+    "revenue":191067560,
+    "release_year":"2023",
+    "profit":121067560
+  },
+  {
+    "id":882569,
+    "title":"Guy Ritchie's The Covenant",
+    "vote_avg":7.713,
+    "vote_count":3456,
+    "directors":[
+      "Guy Ritchie"
+    ],
+    "release_date":"2023-04-19",
+    "runtime_minutes":123,
+    "genres":[
+      "War",
+      "Action",
+      "Thriller"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":11.2329,
+    "budget":55000000,
+    "revenue":21948551,
+    "release_year":"2023",
+    "profit":-33051449
+  },
+  {
+    "id":493529,
+    "title":"Dungeons & Dragons: Honor Among Thieves",
+    "vote_avg":7.354,
+    "vote_count":5059,
+    "directors":[
+      "John Francis Daley",
+      "Jonathan Goldstein"
+    ],
+    "release_date":"2023-03-23",
+    "runtime_minutes":134,
+    "genres":[
+      "Adventure",
+      "Fantasy",
+      "Comedy"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":12.9433,
+    "budget":151000000,
+    "revenue":208200000,
+    "release_year":"2023",
+    "profit":57200000
+  },
+  {
+    "id":1008042,
+    "title":"Talk to Me",
+    "vote_avg":7.138,
+    "vote_count":4086,
+    "directors":[
+      "Michael Philippou",
+      "Danny Philippou"
+    ],
+    "release_date":"2023-07-26",
+    "runtime_minutes":95,
+    "genres":[
+      "Horror"
+    ],
+    "franchise":"Talk to Me Collection",
+    "franchise_id":1162328.0,
+    "popularity":12.89,
+    "budget":4500000,
+    "revenue":91959188,
+    "release_year":"2023",
+    "profit":87459188
+  },
+  {
+    "id":609681,
+    "title":"The Marvels",
+    "vote_avg":5.894,
+    "vote_count":3734,
+    "directors":[
+      "Nia DaCosta"
+    ],
+    "release_date":"2023-11-08",
+    "runtime_minutes":105,
+    "genres":[
+      "Science Fiction",
+      "Adventure",
+      "Action"
+    ],
+    "franchise":"Captain Marvel Collection",
+    "franchise_id":623911.0,
+    "popularity":12.4176,
+    "budget":274800000,
+    "revenue":206136825,
+    "release_year":"2023",
+    "profit":-68663175
+  },
+  {
+    "id":976893,
+    "title":"Perfect Days",
+    "vote_avg":7.816,
+    "vote_count":2149,
+    "directors":[
+      "Wim Wenders"
+    ],
+    "release_date":"2023-11-10",
+    "runtime_minutes":124,
+    "genres":[
+      "Drama"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":12.2113,
+    "budget":14000000,
+    "revenue":24094016,
+    "release_year":"2023",
+    "profit":10094016
+  },
+  {
+    "id":615656,
+    "title":"Meg 2: The Trench",
+    "vote_avg":6.336,
+    "vote_count":4182,
+    "directors":[
+      "Ben Wheatley"
+    ],
+    "release_date":"2023-08-02",
+    "runtime_minutes":116,
+    "genres":[
+      "Action",
+      "Science Fiction",
+      "Horror"
+    ],
+    "franchise":"The Meg Collection",
+    "franchise_id":742536.0,
+    "popularity":12.0895,
+    "budget":129000000,
+    "revenue":398500317,
+    "release_year":"2023",
+    "profit":269500317
+  },
+  {
+    "id":533535,
+    "title":"Deadpool & Wolverine",
+    "vote_avg":7.587,
+    "vote_count":9789,
+    "directors":[
+      "Shawn Levy"
+    ],
+    "release_date":"2024-07-24",
+    "runtime_minutes":128,
+    "genres":[
+      "Action",
+      "Comedy",
+      "Science Fiction"
+    ],
+    "franchise":"Deadpool Collection",
+    "franchise_id":448150.0,
+    "popularity":53.7853,
+    "budget":556800000,
+    "revenue":1338073645,
+    "release_year":"2024",
+    "profit":781273645
+  },
+  {
+    "id":693134,
+    "title":"Dune: Part Two",
+    "vote_avg":8.144,
+    "vote_count":8909,
+    "directors":[
+      "Denis Villeneuve"
+    ],
+    "release_date":"2024-02-27",
+    "runtime_minutes":167,
+    "genres":[
+      "Science Fiction",
+      "Adventure"
+    ],
+    "franchise":"Dune Collection",
+    "franchise_id":726871.0,
+    "popularity":46.7805,
+    "budget":190000000,
+    "revenue":714844358,
+    "release_year":"2024",
+    "profit":524844358
+  },
+  {
+    "id":1184918,
+    "title":"The Wild Robot",
+    "vote_avg":8.309,
+    "vote_count":6825,
+    "directors":[
+      "Chris Sanders"
+    ],
+    "release_date":"2024-09-12",
+    "runtime_minutes":102,
+    "genres":[
+      "Family",
+      "Animation",
+      "Science Fiction",
+      "Adventure"
+    ],
+    "franchise":"The Wild Robot Collection",
+    "franchise_id":1370345.0,
+    "popularity":31.4947,
+    "budget":78000000,
+    "revenue":331982078,
+    "release_year":"2024",
+    "profit":253982078
+  },
+  {
+    "id":786892,
+    "title":"Furiosa: A Mad Max Saga",
+    "vote_avg":7.445,
+    "vote_count":5351,
+    "directors":[
+      "George Miller"
+    ],
+    "release_date":"2024-05-22",
+    "runtime_minutes":149,
+    "genres":[
+      "Action",
+      "Science Fiction",
+      "Adventure"
+    ],
+    "franchise":"Mad Max Collection",
+    "franchise_id":8945.0,
+    "popularity":31.1155,
+    "budget":168000000,
+    "revenue":174287546,
+    "release_year":"2024",
+    "profit":6287546
+  },
+  {
+    "id":866398,
+    "title":"The Beekeeper",
+    "vote_avg":7.287,
+    "vote_count":4699,
+    "directors":[
+      "David Ayer"
+    ],
+    "release_date":"2024-01-08",
+    "runtime_minutes":106,
+    "genres":[
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "franchise":"The Beekeeper Collection",
+    "franchise_id":1440784.0,
+    "popularity":30.2158,
+    "budget":35000000,
+    "revenue":162619535,
+    "release_year":"2024",
+    "profit":127619535
+  },
+  {
+    "id":1022789,
+    "title":"Inside Out 2",
+    "vote_avg":7.538,
+    "vote_count":7141,
+    "directors":[
+      "Kelsey Mann"
+    ],
+    "release_date":"2024-06-11",
+    "runtime_minutes":97,
+    "genres":[
+      "Animation",
+      "Adventure",
+      "Comedy",
+      "Family"
+    ],
+    "franchise":"Inside Out Collection",
+    "franchise_id":1022790.0,
+    "popularity":29.9076,
+    "budget":200000000,
+    "revenue":1698863816,
+    "release_year":"2024",
+    "profit":1498863816
+  },
+  {
+    "id":912649,
+    "title":"Venom: The Last Dance",
+    "vote_avg":6.661,
+    "vote_count":4663,
+    "directors":[
+      "Kelly Marcel"
+    ],
+    "release_date":"2024-10-22",
+    "runtime_minutes":109,
+    "genres":[
+      "Science Fiction",
+      "Action",
+      "Adventure"
+    ],
+    "franchise":"Venom Collection",
+    "franchise_id":558216.0,
+    "popularity":26.2494,
+    "budget":120000000,
+    "revenue":478937618,
+    "release_year":"2024",
+    "profit":358937618
+  },
+  {
+    "id":1034541,
+    "title":"Terrifier 3",
+    "vote_avg":6.745,
+    "vote_count":2099,
+    "directors":[
+      "Damien Leone"
+    ],
+    "release_date":"2024-10-09",
+    "runtime_minutes":125,
+    "genres":[
+      "Horror"
+    ],
+    "franchise":"Terrifier Collection",
+    "franchise_id":727761.0,
+    "popularity":24.7834,
+    "budget":2000000,
+    "revenue":90322103,
+    "release_year":"2024",
+    "profit":88322103
+  },
+  {
+    "id":933260,
+    "title":"The Substance",
+    "vote_avg":7.13,
+    "vote_count":6751,
+    "directors":[
+      "Coralie Fargeat"
+    ],
+    "release_date":"2024-09-18",
+    "runtime_minutes":141,
+    "genres":[
+      "Horror",
+      "Science Fiction"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":23.5173,
+    "budget":17500000,
+    "revenue":77316812,
+    "release_year":"2024",
+    "profit":59816812
+  },
+  {
+    "id":1241982,
+    "title":"Moana 2",
+    "vote_avg":7.001,
+    "vote_count":3357,
+    "directors":[
+      "David G. Derrick Jr.",
+      "Jason Hand",
+      "Dana Ledoux Miller"
+    ],
+    "release_date":"2024-11-21",
+    "runtime_minutes":100,
+    "genres":[
+      "Adventure",
+      "Animation",
+      "Comedy",
+      "Family",
+      "Fantasy"
+    ],
+    "franchise":"Moana Collection",
+    "franchise_id":1241984.0,
+    "popularity":22.504,
+    "budget":150000000,
+    "revenue":1059242164,
+    "release_year":"2024",
+    "profit":909242164
+  },
+  {
+    "id":939243,
+    "title":"Sonic the Hedgehog 3",
+    "vote_avg":7.595,
+    "vote_count":3535,
+    "directors":[
+      "Jeff Fowler"
+    ],
+    "release_date":"2024-12-19",
+    "runtime_minutes":110,
+    "genres":[
+      "Action",
+      "Science Fiction",
+      "Comedy",
+      "Family"
+    ],
+    "franchise":"Sonic the Hedgehog Collection",
+    "franchise_id":720879.0,
+    "popularity":22.3749,
+    "budget":122000000,
+    "revenue":492162604,
+    "release_year":"2024",
+    "profit":370162604
+  },
+  {
+    "id":823464,
+    "title":"Godzilla x Kong: The New Empire",
+    "vote_avg":7.032,
+    "vote_count":4949,
+    "directors":[
+      "Adam Wingard"
+    ],
+    "release_date":"2024-03-27",
+    "runtime_minutes":115,
+    "genres":[
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "franchise":"Godzilla x Kong Collection",
+    "franchise_id":1539140.0,
+    "popularity":21.5534,
+    "budget":150000000,
+    "revenue":571750016,
+    "release_year":"2024",
+    "profit":421750016
+  },
+  {
+    "id":519182,
+    "title":"Despicable Me 4",
+    "vote_avg":6.957,
+    "vote_count":3439,
+    "directors":[
+      "Chris Renaud"
+    ],
+    "release_date":"2024-06-20",
+    "runtime_minutes":94,
+    "genres":[
+      "Animation",
+      "Comedy",
+      "Action",
+      "Science Fiction",
+      "Family"
+    ],
+    "franchise":"Despicable Me Collection",
+    "franchise_id":86066.0,
+    "popularity":21.435,
+    "budget":100000000,
+    "revenue":972021410,
+    "release_year":"2024",
+    "profit":872021410
+  },
+  {
+    "id":945961,
+    "title":"Alien: Romulus",
+    "vote_avg":7.156,
+    "vote_count":5040,
+    "directors":[
+      "Fede \u00c1lvarez"
+    ],
+    "release_date":"2024-08-13",
+    "runtime_minutes":119,
+    "genres":[
+      "Horror",
+      "Science Fiction"
+    ],
+    "franchise":"Alien: Romulus Collection",
+    "franchise_id":1434946.0,
+    "popularity":21.3404,
+    "budget":80000000,
+    "revenue":350865342,
+    "release_year":"2024",
+    "profit":270865342
+  },
+  {
+    "id":549509,
+    "title":"The Brutalist",
+    "vote_avg":6.928,
+    "vote_count":1892,
+    "directors":[
+      "Brady Corbet"
+    ],
+    "release_date":"2024-12-20",
+    "runtime_minutes":215,
+    "genres":[
+      "Drama"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":18.0027,
+    "budget":9600000,
+    "revenue":50145227,
+    "release_year":"2024",
+    "profit":40545227
+  },
+  {
+    "id":917496,
+    "title":"Beetlejuice Beetlejuice",
+    "vote_avg":6.913,
+    "vote_count":3435,
+    "directors":[
+      "Tim Burton"
+    ],
+    "release_date":"2024-09-04",
+    "runtime_minutes":105,
+    "genres":[
+      "Comedy",
+      "Fantasy",
+      "Horror"
+    ],
+    "franchise":"Beetlejuice Collection",
+    "franchise_id":945475.0,
+    "popularity":17.71,
+    "budget":99000000,
+    "revenue":452000435,
+    "release_year":"2024",
+    "profit":353000435
+  },
+  {
+    "id":558449,
+    "title":"Gladiator II",
+    "vote_avg":6.587,
+    "vote_count":4870,
+    "directors":[
+      "Ridley Scott"
+    ],
+    "release_date":"2024-11-13",
+    "runtime_minutes":148,
+    "genres":[
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "franchise":"Gladiator Collection",
+    "franchise_id":1069584.0,
+    "popularity":17.2181,
+    "budget":310000000,
+    "revenue":462180717,
+    "release_year":"2024",
+    "profit":152180717
+  },
+  {
+    "id":426063,
+    "title":"Nosferatu",
+    "vote_avg":6.729,
+    "vote_count":4129,
+    "directors":[
+      "Robert Eggers"
+    ],
+    "release_date":"2024-12-25",
+    "runtime_minutes":133,
+    "genres":[
+      "Horror",
+      "Fantasy"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":16.7559,
+    "budget":50000000,
+    "revenue":181805645,
+    "release_year":"2024",
+    "profit":131805645
+  },
+  {
+    "id":402431,
+    "title":"Wicked",
+    "vote_avg":6.908,
+    "vote_count":3321,
+    "directors":[
+      "Jon M. Chu"
+    ],
+    "release_date":"2024-10-16",
+    "runtime_minutes":162,
+    "genres":[
+      "Drama",
+      "Romance",
+      "Fantasy"
+    ],
+    "franchise":"Wicked Collection",
+    "franchise_id":968080.0,
+    "popularity":16.0319,
+    "budget":150000000,
+    "revenue":763963597,
+    "release_year":"2024",
+    "profit":613963597
+  },
+  {
+    "id":539972,
+    "title":"Kraven the Hunter",
+    "vote_avg":6.404,
+    "vote_count":2591,
+    "directors":[
+      "J.C. Chandor"
+    ],
+    "release_date":"2024-12-11",
+    "runtime_minutes":127,
+    "genres":[
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":15.9429,
+    "budget":130000000,
+    "revenue":62076533,
+    "release_year":"2024",
+    "profit":-67923467
+  },
+  {
+    "id":1226578,
+    "title":"Longlegs",
+    "vote_avg":6.522,
+    "vote_count":3012,
+    "directors":[
+      "Osgood Perkins"
+    ],
+    "release_date":"2024-07-10",
+    "runtime_minutes":101,
+    "genres":[
+      "Crime",
+      "Horror",
+      "Mystery"
+    ],
+    "franchise":"Longlegs Collection",
+    "franchise_id":1679129.0,
+    "popularity":15.7341,
+    "budget":10000000,
+    "revenue":127961936,
+    "release_year":"2024",
+    "profit":117961936
+  },
+  {
+    "id":937287,
+    "title":"Challengers",
+    "vote_avg":6.905,
+    "vote_count":2942,
+    "directors":[
+      "Luca Guadagnino"
+    ],
+    "release_date":"2024-04-18",
+    "runtime_minutes":132,
+    "genres":[
+      "Drama",
+      "Romance"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":15.7168,
+    "budget":55000000,
+    "revenue":94182533,
+    "release_year":"2024",
+    "profit":39182533
+  },
+  {
+    "id":1064213,
+    "title":"Anora",
+    "vote_avg":7.073,
+    "vote_count":3621,
+    "directors":[
+      "Sean Baker"
+    ],
+    "release_date":"2024-10-14",
+    "runtime_minutes":139,
+    "genres":[
+      "Drama",
+      "Comedy",
+      "Romance"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":15.6307,
+    "budget":6000000,
+    "revenue":56286295,
+    "release_year":"2024",
+    "profit":50286295
+  },
+  {
+    "id":845781,
+    "title":"Red One",
+    "vote_avg":6.941,
+    "vote_count":3227,
+    "directors":[
+      "Jake Kasdan"
+    ],
+    "release_date":"2024-10-31",
+    "runtime_minutes":124,
+    "genres":[
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":15.1658,
+    "budget":250000000,
+    "revenue":185700759,
+    "release_year":"2024",
+    "profit":-64299241
+  },
+  {
+    "id":823219,
+    "title":"Flow",
+    "vote_avg":8.049,
+    "vote_count":3156,
+    "directors":[
+      "Gints Zilbalodis"
+    ],
+    "release_date":"2024-08-29",
+    "runtime_minutes":85,
+    "genres":[
+      "Adventure",
+      "Animation",
+      "Family",
+      "Fantasy"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":14.1093,
+    "budget":3700000,
+    "revenue":17660107,
+    "release_year":"2024",
+    "profit":13960107
+  },
+  {
+    "id":718821,
+    "title":"Twisters",
+    "vote_avg":6.749,
+    "vote_count":3255,
+    "directors":[
+      "Lee Isaac Chung"
+    ],
+    "release_date":"2024-07-10",
+    "runtime_minutes":123,
+    "genres":[
+      "Action",
+      "Thriller"
+    ],
+    "franchise":"Twister Collection",
+    "franchise_id":1062948.0,
+    "popularity":15.115,
+    "budget":155000000,
+    "revenue":372262265,
+    "release_year":"2024",
+    "profit":217262265
+  },
+  {
+    "id":1100782,
+    "title":"Smile 2",
+    "vote_avg":6.602,
+    "vote_count":2443,
+    "directors":[
+      "Parker Finn"
+    ],
+    "release_date":"2024-10-16",
+    "runtime_minutes":127,
+    "genres":[
+      "Horror",
+      "Mystery"
+    ],
+    "franchise":"Smile Collection",
+    "franchise_id":1100788.0,
+    "popularity":14.8857,
+    "budget":28000000,
+    "revenue":138128854,
+    "release_year":"2024",
+    "profit":110128854
+  },
+  {
+    "id":1011985,
+    "title":"Kung Fu Panda 4",
+    "vote_avg":6.98,
+    "vote_count":3745,
+    "directors":[
+      "Mike Mitchell"
+    ],
+    "release_date":"2024-03-02",
+    "runtime_minutes":94,
+    "genres":[
+      "Animation",
+      "Comedy",
+      "Adventure",
+      "Action",
+      "Family"
+    ],
+    "franchise":"Kung Fu Panda Collection",
+    "franchise_id":77816.0,
+    "popularity":14.3056,
+    "budget":80000000,
+    "revenue":548040835,
+    "release_year":"2024",
+    "profit":468040835
+  },
+  {
+    "id":799583,
+    "title":"The Ministry of Ungentlemanly Warfare",
+    "vote_avg":6.993,
+    "vote_count":2173,
+    "directors":[
+      "Guy Ritchie"
+    ],
+    "release_date":"2024-04-18",
+    "runtime_minutes":120,
+    "genres":[
+      "Action",
+      "Comedy",
+      "War"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":14.3055,
+    "budget":60000000,
+    "revenue":29768915,
+    "release_year":"2024",
+    "profit":-30231085
+  },
+  {
+    "id":1079485,
+    "title":"Winnie-the-Pooh: Blood and Honey 2",
+    "vote_avg":5.785,
+    "vote_count":516,
+    "directors":[
+      "Rhys Frake-Waterfield"
+    ],
+    "release_date":"2024-03-26",
+    "runtime_minutes":93,
+    "genres":[
+      "Horror"
+    ],
+    "franchise":"Winnie-the-Pooh (Horror) Collection",
+    "franchise_id":1079486.0,
+    "popularity":14.1463,
+    "budget":415000,
+    "revenue":7582541,
+    "release_year":"2024",
+    "profit":7167541
+  },
+  {
+    "id":762441,
+    "title":"A Quiet Place: Day One",
+    "vote_avg":6.629,
+    "vote_count":3667,
+    "directors":[
+      "Michael Sarnoski"
+    ],
+    "release_date":"2024-06-26",
+    "runtime_minutes":100,
+    "genres":[
+      "Horror",
+      "Science Fiction",
+      "Thriller"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":13.6781,
+    "budget":67000000,
+    "revenue":261907653,
+    "release_year":"2024",
+    "profit":194907653
+  },
+  {
+    "id":967847,
+    "title":"Ghostbusters: Frozen Empire",
+    "vote_avg":6.411,
+    "vote_count":2367,
+    "directors":[
+      "Gil Kenan"
+    ],
+    "release_date":"2024-03-20",
+    "runtime_minutes":115,
+    "genres":[
+      "Fantasy",
+      "Adventure",
+      "Comedy"
+    ],
+    "franchise":"Ghostbusters Collection",
+    "franchise_id":2980.0,
+    "popularity":13.6062,
+    "budget":100000000,
+    "revenue":201967521,
+    "release_year":"2024",
+    "profit":101967521
+  },
+  {
+    "id":762509,
+    "title":"Mufasa: The Lion King",
+    "vote_avg":7.278,
+    "vote_count":2826,
+    "directors":[
+      "Barry Jenkins"
+    ],
+    "release_date":"2024-12-18",
+    "runtime_minutes":118,
+    "genres":[
+      "Adventure",
+      "Family",
+      "Animation"
+    ],
+    "franchise":"The Lion King (Reboot) Collection",
+    "franchise_id":762512.0,
+    "popularity":13.3854,
+    "budget":200000000,
+    "revenue":722631756,
+    "release_year":"2024",
+    "profit":522631756
+  },
+  {
+    "id":653346,
+    "title":"Kingdom of the Planet of the Apes",
+    "vote_avg":7.043,
+    "vote_count":4557,
+    "directors":[
+      "Wes Ball"
+    ],
+    "release_date":"2024-05-08",
+    "runtime_minutes":145,
+    "genres":[
+      "Science Fiction",
+      "Adventure",
+      "Action"
+    ],
+    "franchise":"Planet of the Apes (Reboot) Collection",
+    "franchise_id":173710.0,
+    "popularity":13.1903,
+    "budget":160000000,
+    "revenue":397378150,
+    "release_year":"2024",
+    "profit":237378150
+  },
+  {
+    "id":746036,
+    "title":"The Fall Guy",
+    "vote_avg":6.948,
+    "vote_count":4180,
+    "directors":[
+      "David Leitch"
+    ],
+    "release_date":"2024-04-24",
+    "runtime_minutes":127,
+    "genres":[
+      "Action",
+      "Comedy",
+      "Romance"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":13.188,
+    "budget":125000000,
+    "revenue":181073291,
+    "release_year":"2024",
+    "profit":56073291
+  },
+  {
+    "id":83533,
+    "title":"Avatar: Fire and Ash",
+    "vote_avg":7.646,
+    "vote_count":4656,
+    "directors":[
+      "James Cameron"
+    ],
+    "release_date":"2025-12-17",
+    "runtime_minutes":198,
+    "genres":[
+      "Science Fiction",
+      "Adventure",
+      "Fantasy"
+    ],
+    "franchise":"Avatar Collection",
+    "franchise_id":87096.0,
+    "popularity":47.8701,
+    "budget":350000000,
+    "revenue":1485999890,
+    "release_year":"2025",
+    "profit":1135999890
+  },
+  {
+    "id":1084242,
+    "title":"Zootopia 2",
+    "vote_avg":7.667,
+    "vote_count":3653,
+    "directors":[
+      "Jared Bush",
+      "Byron Howard"
+    ],
+    "release_date":"2025-11-26",
+    "runtime_minutes":108,
+    "genres":[
+      "Animation",
+      "Adventure",
+      "Comedy",
+      "Mystery",
+      "Family"
+    ],
+    "franchise":"Zootopia Collection",
+    "franchise_id":1084247.0,
+    "popularity":41.0568,
+    "budget":150000000,
+    "revenue":1868208796,
+    "release_year":"2025",
+    "profit":1718208796
+  },
+  {
+    "id":1311031,
+    "title":"Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+    "vote_avg":8.801,
+    "vote_count":2372,
+    "directors":[
+      "Haruo Sotozaki"
+    ],
+    "release_date":"2025-07-18",
+    "runtime_minutes":156,
+    "genres":[
+      "Animation",
+      "Action",
+      "Fantasy"
+    ],
+    "franchise":"Demon Slayer: Kimetsu no Yaiba Collection",
+    "franchise_id":925155.0,
+    "popularity":38.1993,
+    "budget":20000000,
+    "revenue":793594078,
+    "release_year":"2025",
+    "profit":773594078
+  },
+  {
+    "id":1368166,
+    "title":"The Housemaid",
+    "vote_avg":7.25,
+    "vote_count":3322,
+    "directors":[
+      "Paul Feig"
+    ],
+    "release_date":"2025-12-18",
+    "runtime_minutes":131,
+    "genres":[
+      "Mystery",
+      "Thriller"
+    ],
+    "franchise":"The Housemaid Collection",
+    "franchise_id":1611146.0,
+    "popularity":35.2305,
+    "budget":35000000,
+    "revenue":400483145,
+    "release_year":"2025",
+    "profit":365483145
+  },
+  {
+    "id":1233413,
+    "title":"Sinners",
+    "vote_avg":7.5,
+    "vote_count":5509,
+    "directors":[
+      "Ryan Coogler"
+    ],
+    "release_date":"2025-04-16",
+    "runtime_minutes":138,
+    "genres":[
+      "Horror",
+      "Action",
+      "Thriller"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":30.6127,
+    "budget":100000000,
+    "revenue":371368759,
+    "release_year":"2025",
+    "profit":271368759
+  },
+  {
+    "id":911430,
+    "title":"F1",
+    "vote_avg":7.833,
+    "vote_count":4964,
+    "directors":[
+      "Joseph Kosinski"
+    ],
+    "release_date":"2025-06-25",
+    "runtime_minutes":156,
+    "genres":[
+      "Action",
+      "Drama"
+    ],
+    "franchise":"F1 Collection",
+    "franchise_id":1633433.0,
+    "popularity":28.7962,
+    "budget":300000000,
+    "revenue":634142436,
+    "release_year":"2025",
+    "profit":334142436
+  },
+  {
+    "id":803796,
+    "title":"KPop Demon Hunters",
+    "vote_avg":7.971,
+    "vote_count":3351,
+    "directors":[
+      "Chris Appelhans",
+      "Maggie Kang"
+    ],
+    "release_date":"2025-06-20",
+    "runtime_minutes":96,
+    "genres":[
+      "Fantasy",
+      "Music",
+      "Comedy",
+      "Animation"
+    ],
+    "franchise":"KPop Demon Hunters Collection",
+    "franchise_id":1738564.0,
+    "popularity":28.7667,
+    "budget":100000000,
+    "revenue":24619953,
+    "release_year":"2025",
+    "profit":-75380047
+  },
+  {
+    "id":1061474,
+    "title":"Superman",
+    "vote_avg":7.324,
+    "vote_count":5713,
+    "directors":[
+      "James Gunn"
+    ],
+    "release_date":"2025-07-09",
+    "runtime_minutes":130,
+    "genres":[
+      "Science Fiction",
+      "Adventure",
+      "Action"
+    ],
+    "franchise":"Superman (DCU) Collection",
+    "franchise_id":1540907.0,
+    "popularity":28.1042,
+    "budget":225000000,
+    "revenue":618723803,
+    "release_year":"2025",
+    "profit":393723803
+  },
+  {
+    "id":1246049,
+    "title":"Dracula",
+    "vote_avg":7.3,
+    "vote_count":1594,
+    "directors":[
+      "Luc Besson"
+    ],
+    "release_date":"2025-07-30",
+    "runtime_minutes":130,
+    "genres":[
+      "Horror",
+      "Fantasy",
+      "Romance"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":27.3803,
+    "budget":52000000,
+    "revenue":42415061,
+    "release_year":"2025",
+    "profit":-9584939
+  },
+  {
+    "id":1218925,
+    "title":"Chainsaw Man - The Movie: Reze Arc",
+    "vote_avg":8.544,
+    "vote_count":1278,
+    "directors":[
+      "Tatsuya Yoshihara"
+    ],
+    "release_date":"2025-09-19",
+    "runtime_minutes":100,
+    "genres":[
+      "Animation",
+      "Action",
+      "Romance",
+      "Fantasy"
+    ],
+    "franchise":"Chainsaw Man Collection",
+    "franchise_id":1544712.0,
+    "popularity":26.1538,
+    "budget":4100000,
+    "revenue":191400000,
+    "release_year":"2025",
+    "profit":187300000
+  },
+  {
+    "id":1234821,
+    "title":"Jurassic World Rebirth",
+    "vote_avg":6.24,
+    "vote_count":3923,
+    "directors":[
+      "Gareth Edwards"
+    ],
+    "release_date":"2025-06-23",
+    "runtime_minutes":134,
+    "genres":[
+      "Science Fiction",
+      "Adventure",
+      "Action"
+    ],
+    "franchise":"Jurassic Park Collection",
+    "franchise_id":328.0,
+    "popularity":25.688,
+    "budget":180000000,
+    "revenue":869146189,
+    "release_year":"2025",
+    "profit":689146189
+  },
+  {
+    "id":617126,
+    "title":"The Fantastic 4: First Steps",
+    "vote_avg":6.931,
+    "vote_count":4109,
+    "directors":[
+      "Matt Shakman"
+    ],
+    "release_date":"2025-07-23",
+    "runtime_minutes":115,
+    "genres":[
+      "Science Fiction",
+      "Adventure",
+      "Action"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":24.8375,
+    "budget":200000000,
+    "revenue":521858728,
+    "release_year":"2025",
+    "profit":321858728
+  },
+  {
+    "id":574475,
+    "title":"Final Destination Bloodlines",
+    "vote_avg":7.03,
+    "vote_count":3246,
+    "directors":[
+      "Adam Stein",
+      "Zach Lipovsky"
+    ],
+    "release_date":"2025-05-14",
+    "runtime_minutes":110,
+    "genres":[
+      "Horror",
+      "Mystery"
+    ],
+    "franchise":"Final Destination Collection",
+    "franchise_id":8864.0,
+    "popularity":24.6915,
+    "budget":50000000,
+    "revenue":317854739,
+    "release_year":"2025",
+    "profit":267854739
+  },
+  {
+    "id":950387,
+    "title":"A Minecraft Movie",
+    "vote_avg":6.193,
+    "vote_count":3428,
+    "directors":[
+      "Jared Hess"
+    ],
+    "release_date":"2025-03-31",
+    "runtime_minutes":101,
+    "genres":[
+      "Family",
+      "Fantasy",
+      "Comedy",
+      "Adventure"
+    ],
+    "franchise":"Minecraft Movie Collection",
+    "franchise_id":1461530.0,
+    "popularity":24.5383,
+    "budget":150000000,
+    "revenue":960387780,
+    "release_year":"2025",
+    "profit":810387780
+  },
+  {
+    "id":1078605,
+    "title":"Weapons",
+    "vote_avg":7.26,
+    "vote_count":4254,
+    "directors":[
+      "Zach Cregger"
+    ],
+    "release_date":"2025-08-04",
+    "runtime_minutes":128,
+    "genres":[
+      "Horror",
+      "Mystery"
+    ],
+    "franchise":"Weapons Collection",
+    "franchise_id":1531466.0,
+    "popularity":24.3661,
+    "budget":38000000,
+    "revenue":269972492,
+    "release_year":"2025",
+    "profit":231972492
+  },
+  {
+    "id":1242898,
+    "title":"Predator: Badlands",
+    "vote_avg":7.846,
+    "vote_count":3887,
+    "directors":[
+      "Dan Trachtenberg"
+    ],
+    "release_date":"2025-11-05",
+    "runtime_minutes":107,
+    "genres":[
+      "Action",
+      "Science Fiction",
+      "Adventure"
+    ],
+    "franchise":"Predator Collection",
+    "franchise_id":399.0,
+    "popularity":24.0729,
+    "budget":105000000,
+    "revenue":184500000,
+    "release_year":"2025",
+    "profit":79500000
+  },
+  {
+    "id":1087192,
+    "title":"How to Train Your Dragon",
+    "vote_avg":7.929,
+    "vote_count":3224,
+    "directors":[
+      "Dean DeBlois"
+    ],
+    "release_date":"2025-06-06",
+    "runtime_minutes":125,
+    "genres":[
+      "Fantasy",
+      "Family",
+      "Action",
+      "Adventure"
+    ],
+    "franchise":"How to Train Your Dragon (Live-Action) Collection",
+    "franchise_id":1458864.0,
+    "popularity":23.3485,
+    "budget":150000000,
+    "revenue":636596299,
+    "release_year":"2025",
+    "profit":486596299
+  },
+  {
+    "id":552524,
+    "title":"Lilo & Stitch",
+    "vote_avg":7.179,
+    "vote_count":2351,
+    "directors":[
+      "Dean Fleischer Camp"
+    ],
+    "release_date":"2025-05-17",
+    "runtime_minutes":108,
+    "genres":[
+      "Family",
+      "Science Fiction",
+      "Comedy"
+    ],
+    "franchise":"Lilo & Stitch (Live-Action) Collection",
+    "franchise_id":1504372.0,
+    "popularity":22.3405,
+    "budget":100000000,
+    "revenue":1038027526,
+    "release_year":"2025",
+    "profit":938027526
+  },
+  {
+    "id":575265,
+    "title":"Mission: Impossible - The Final Reckoning",
+    "vote_avg":7.166,
+    "vote_count":3306,
+    "directors":[
+      "Christopher McQuarrie"
+    ],
+    "release_date":"2025-05-17",
+    "runtime_minutes":170,
+    "genres":[
+      "Action",
+      "Thriller",
+      "Adventure"
+    ],
+    "franchise":"Mission: Impossible Collection",
+    "franchise_id":87359.0,
+    "popularity":21.704,
+    "budget":400000000,
+    "revenue":598767057,
+    "release_year":"2025",
+    "profit":198767057
+  },
+  {
+    "id":1054867,
+    "title":"One Battle After Another",
+    "vote_avg":7.3,
+    "vote_count":4495,
+    "directors":[
+      "Paul Thomas Anderson"
+    ],
+    "release_date":"2025-09-23",
+    "runtime_minutes":162,
+    "genres":[
+      "Thriller",
+      "Crime",
+      "Comedy"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":21.6987,
+    "budget":175000000,
+    "revenue":209377100,
+    "release_year":"2025",
+    "profit":34377100
+  },
+  {
+    "id":986056,
+    "title":"Thunderbolts*",
+    "vote_avg":7.296,
+    "vote_count":4275,
+    "directors":[
+      "Jake Schreier"
+    ],
+    "release_date":"2025-04-30",
+    "runtime_minutes":127,
+    "genres":[
+      "Action",
+      "Science Fiction",
+      "Adventure"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":21.339,
+    "budget":180000000,
+    "revenue":382436917,
+    "release_year":"2025",
+    "profit":202436917
+  },
+  {
+    "id":1062722,
+    "title":"Frankenstein",
+    "vote_avg":7.598,
+    "vote_count":4038,
+    "directors":[
+      "Guillermo del Toro"
+    ],
+    "release_date":"2025-10-17",
+    "runtime_minutes":150,
+    "genres":[
+      "Drama",
+      "Fantasy",
+      "Horror"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":20.9599,
+    "budget":120000000,
+    "revenue":480678,
+    "release_year":"2025",
+    "profit":-119519322
+  },
+  {
+    "id":1038392,
+    "title":"The Conjuring: Last Rites",
+    "vote_avg":6.946,
+    "vote_count":2236,
+    "directors":[
+      "Michael Chaves"
+    ],
+    "release_date":"2025-09-03",
+    "runtime_minutes":136,
+    "genres":[
+      "Horror"
+    ],
+    "franchise":"The Conjuring Collection",
+    "franchise_id":313086.0,
+    "popularity":20.4482,
+    "budget":55000000,
+    "revenue":499256445,
+    "release_year":"2025",
+    "profit":444256445
+  },
+  {
+    "id":1197306,
+    "title":"A Working Man",
+    "vote_avg":6.665,
+    "vote_count":2165,
+    "directors":[
+      "David Ayer"
+    ],
+    "release_date":"2025-03-26",
+    "runtime_minutes":116,
+    "genres":[
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":18.239,
+    "budget":40000000,
+    "revenue":89400711,
+    "release_year":"2025",
+    "profit":49400711
+  },
+  {
+    "id":1317149,
+    "title":"I Swear",
+    "vote_avg":8.298,
+    "vote_count":663,
+    "directors":[
+      "Kirk Jones"
+    ],
+    "release_date":"2025-09-22",
+    "runtime_minutes":121,
+    "genres":[
+      "Drama",
+      "History"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":17.9064,
+    "budget":3730000,
+    "revenue":15564404,
+    "release_year":"2025",
+    "profit":11834404
+  },
+  {
+    "id":980477,
+    "title":"Ne Zha 2",
+    "vote_avg":8.204,
+    "vote_count":864,
+    "directors":[
+      "Jiao Zi"
+    ],
+    "release_date":"2025-01-29",
+    "runtime_minutes":144,
+    "genres":[
+      "Animation",
+      "Action",
+      "Fantasy",
+      "Adventure"
+    ],
+    "franchise":"Ne Zha Collection",
+    "franchise_id":1449595.0,
+    "popularity":17.6454,
+    "budget":80000000,
+    "revenue":2270700370,
+    "release_year":"2025",
+    "profit":2190700370
+  },
+  {
+    "id":1011477,
+    "title":"Karate Kid: Legends",
+    "vote_avg":6.983,
+    "vote_count":1344,
+    "directors":[
+      "Jonathan Entwistle"
+    ],
+    "release_date":"2025-05-08",
+    "runtime_minutes":94,
+    "genres":[
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "franchise":"The Karate Kid Collection",
+    "franchise_id":8580.0,
+    "popularity":17.4116,
+    "budget":45000000,
+    "revenue":117105466,
+    "release_year":"2025",
+    "profit":72105466
+  },
+  {
+    "id":425274,
+    "title":"Now You See Me: Now You Don't",
+    "vote_avg":6.435,
+    "vote_count":1947,
+    "directors":[
+      "Ruben Fleischer"
+    ],
+    "release_date":"2025-11-12",
+    "runtime_minutes":112,
+    "genres":[
+      "Crime",
+      "Thriller"
+    ],
+    "franchise":"Now You See Me Collection",
+    "franchise_id":382685.0,
+    "popularity":16.8132,
+    "budget":90000000,
+    "revenue":243700000,
+    "release_year":"2025",
+    "profit":153700000
+  },
+  {
+    "id":822119,
+    "title":"Captain America: Brave New World",
+    "vote_avg":5.955,
+    "vote_count":3593,
+    "directors":[
+      "Julius Onah"
+    ],
+    "release_date":"2025-02-12",
+    "runtime_minutes":119,
+    "genres":[
+      "Action",
+      "Thriller",
+      "Science Fiction"
+    ],
+    "franchise":"Captain America Collection",
+    "franchise_id":131295.0,
+    "popularity":16.7323,
+    "budget":180000000,
+    "revenue":415101577,
+    "release_year":"2025",
+    "profit":235101577
+  },
+  {
+    "id":1228246,
+    "title":"Five Nights at Freddy's 2",
+    "vote_avg":6.6,
+    "vote_count":1246,
+    "directors":[
+      "Emma Tammi"
+    ],
+    "release_date":"2025-12-03",
+    "runtime_minutes":104,
+    "genres":[
+      "Horror",
+      "Thriller"
+    ],
+    "franchise":"Five Nights at Freddy's Collection",
+    "franchise_id":1240438.0,
+    "popularity":16.5495,
+    "budget":36000000,
+    "revenue":239568877,
+    "release_year":"2025",
+    "profit":203568877
+  },
+  {
+    "id":701387,
+    "title":"Bugonia",
+    "vote_avg":7.301,
+    "vote_count":2572,
+    "directors":[
+      "Yorgos Lanthimos"
+    ],
+    "release_date":"2025-10-23",
+    "runtime_minutes":119,
+    "genres":[
+      "Science Fiction",
+      "Thriller",
+      "Comedy"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":16.4373,
+    "budget":55000000,
+    "revenue":43500000,
+    "release_year":"2025",
+    "profit":-11500000
+  },
+  {
+    "id":1100988,
+    "title":"28 Years Later",
+    "vote_avg":6.602,
+    "vote_count":3127,
+    "directors":[
+      "Danny Boyle"
+    ],
+    "release_date":"2025-06-18",
+    "runtime_minutes":115,
+    "genres":[
+      "Horror",
+      "Thriller",
+      "Science Fiction"
+    ],
+    "franchise":"28 Days\/Weeks\/Years Later Collection",
+    "franchise_id":1565.0,
+    "popularity":16.2382,
+    "budget":60000000,
+    "revenue":151308832,
+    "release_year":"2025",
+    "profit":91308832
+  },
+  {
+    "id":541671,
+    "title":"Ballerina",
+    "vote_avg":7.268,
+    "vote_count":3114,
+    "directors":[
+      "Len Wiseman"
+    ],
+    "release_date":"2025-06-04",
+    "runtime_minutes":125,
+    "genres":[
+      "Action",
+      "Thriller",
+      "Crime"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":16.1155,
+    "budget":90000000,
+    "revenue":140201236,
+    "release_year":"2025",
+    "profit":50201236
+  },
+  {
+    "id":791523,
+    "title":"Wildwood",
+    "vote_avg":8.452,
+    "vote_count":197,
+    "directors":[
+      "Travis Knight"
+    ],
+    "release_date":"2026-10-19",
+    "runtime_minutes":132,
+    "genres":[
+      "Animation",
+      "Adventure",
+      "Fantasy"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":1088.2974,
+    "budget":100000000,
+    "revenue":53256779,
+    "release_year":"2026",
+    "profit":-46743221
+  },
+  {
+    "id":1423191,
+    "title":"Resident Evil",
+    "vote_avg":7.5,
+    "vote_count":1603,
+    "directors":[
+      "Zach Cregger"
+    ],
+    "release_date":"2026-09-16",
+    "runtime_minutes":94,
+    "genres":[
+      "Horror",
+      "Science Fiction",
+      "Adventure"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":406.627,
+    "budget":75000000,
+    "revenue":400290973,
+    "release_year":"2026",
+    "profit":325290973
+  },
+  {
+    "id":1058424,
+    "title":"Hope",
+    "vote_avg":6.773,
+    "vote_count":480,
+    "directors":[
+      "Na Hong-jin"
+    ],
+    "release_date":"2026-07-15",
+    "runtime_minutes":157,
+    "genres":[
+      "Science Fiction",
+      "Mystery",
+      "Action"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":395.4968,
+    "budget":46000000,
+    "revenue":49456866,
+    "release_year":"2026",
+    "profit":3456866
+  },
+  {
+    "id":969681,
+    "title":"Spider-Man: Brand New Day",
+    "vote_avg":8.482,
+    "vote_count":6559,
+    "directors":[
+      "Destin Daniel Cretton"
+    ],
+    "release_date":"2026-07-29",
+    "runtime_minutes":145,
+    "genres":[
+      "Science Fiction",
+      "Action",
+      "Adventure"
+    ],
+    "franchise":"Spider-Man (MCU) Collection",
+    "franchise_id":531241.0,
+    "popularity":306.0813,
+    "budget":225000000,
+    "revenue":2519512338,
+    "release_year":"2026",
+    "profit":2294512338
+  },
+  {
+    "id":1283515,
+    "title":"Verity",
+    "vote_avg":7.0,
+    "vote_count":605,
+    "directors":[
+      "Michael Showalter"
+    ],
+    "release_date":"2026-09-30",
+    "runtime_minutes":117,
+    "genres":[
+      "Mystery",
+      "Thriller"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":205.4296,
+    "budget":40000000,
+    "revenue":163738361,
+    "release_year":"2026",
+    "profit":123738361
+  },
+  {
+    "id":1101412,
+    "title":"Fall 2: Deadpoint",
+    "vote_avg":7.312,
+    "vote_count":743,
+    "directors":[
+      "Peter Spierig",
+      "Michael Spierig"
+    ],
+    "release_date":"2026-09-01",
+    "runtime_minutes":98,
+    "genres":[
+      "Thriller"
+    ],
+    "franchise":"Fall Collection",
+    "franchise_id":1102372.0,
+    "popularity":194.0445,
+    "budget":3000000,
+    "revenue":9256541,
+    "release_year":"2026",
+    "profit":6256541
+  },
+  {
+    "id":1368337,
+    "title":"The Odyssey",
+    "vote_avg":8.0,
+    "vote_count":4353,
+    "directors":[
+      "Christopher Nolan"
+    ],
+    "release_date":"2026-07-15",
+    "runtime_minutes":173,
+    "genres":[
+      "Adventure",
+      "Action",
+      "Fantasy"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":189.8216,
+    "budget":250000000,
+    "revenue":1796113523,
+    "release_year":"2026",
+    "profit":1546113523
+  },
+  {
+    "id":1514026,
+    "title":"Buddy",
+    "vote_avg":7.0,
+    "vote_count":247,
+    "directors":[
+      "Casper Kelly"
+    ],
+    "release_date":"2026-08-27",
+    "runtime_minutes":96,
+    "genres":[
+      "Horror",
+      "Comedy",
+      "Fantasy"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":159.4589,
+    "budget":3000000,
+    "revenue":26973941,
+    "release_year":"2026",
+    "profit":23973941
+  },
+  {
+    "id":1232569,
+    "title":"Pinocchio: Unstrung",
+    "vote_avg":6.5,
+    "vote_count":159,
+    "directors":[
+      "Rhys Frake-Waterfield"
+    ],
+    "release_date":"2026-07-22",
+    "runtime_minutes":82,
+    "genres":[
+      "Horror",
+      "Fantasy",
+      "Mystery"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":140.7601,
+    "budget":500000,
+    "revenue":822910,
+    "release_year":"2026",
+    "profit":322910
+  },
+  {
+    "id":1422041,
+    "title":"LA BOLA NEGRA",
+    "vote_avg":8.0,
+    "vote_count":179,
+    "directors":[
+      "Javier Ambrossi",
+      "Javier Calvo"
+    ],
+    "release_date":"2026-09-25",
+    "runtime_minutes":159,
+    "genres":[
+      "Drama",
+      "War"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":127.5021,
+    "budget":11100000,
+    "revenue":39537039,
+    "release_year":"2026",
+    "profit":28437039
+  },
+  {
+    "id":1291595,
+    "title":"Insidious: Out of the Further",
+    "vote_avg":7.7,
+    "vote_count":1023,
+    "directors":[
+      "Jacob Chase"
+    ],
+    "release_date":"2026-08-19",
+    "runtime_minutes":106,
+    "genres":[
+      "Horror",
+      "Thriller"
+    ],
+    "franchise":"Insidious Collection",
+    "franchise_id":228446.0,
+    "popularity":111.8307,
+    "budget":18000000,
+    "revenue":171602602,
+    "release_year":"2026",
+    "profit":153602602
+  },
+  {
+    "id":1375441,
+    "title":"Primetime",
+    "vote_avg":6.801,
+    "vote_count":314,
+    "directors":[
+      "Lance Oppenheim"
+    ],
+    "release_date":"2026-09-23",
+    "runtime_minutes":110,
+    "genres":[
+      "Thriller",
+      "Drama"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":117.3017,
+    "budget":14500000,
+    "revenue":57264283,
+    "release_year":"2026",
+    "profit":42764283
+  },
+  {
+    "id":1400940,
+    "title":"Clayface",
+    "vote_avg":7.432,
+    "vote_count":396,
+    "directors":[
+      "James Watkins"
+    ],
+    "release_date":"2026-10-19",
+    "runtime_minutes":109,
+    "genres":[
+      "Horror",
+      "Thriller",
+      "Science Fiction"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":105.4305,
+    "budget":44000000,
+    "revenue":88984703,
+    "release_year":"2026",
+    "profit":44984703
+  },
+  {
+    "id":1384216,
+    "title":"The Dog Stars",
+    "vote_avg":7.226,
+    "vote_count":888,
+    "directors":[
+      "Ridley Scott"
+    ],
+    "release_date":"2026-08-26",
+    "runtime_minutes":119,
+    "genres":[
+      "Action",
+      "Thriller",
+      "Science Fiction"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":111.2518,
+    "budget":110000000,
+    "revenue":39203493,
+    "release_year":"2026",
+    "profit":-70796507
+  },
+  {
+    "id":1339713,
+    "title":"Obsession",
+    "vote_avg":8.17,
+    "vote_count":6520,
+    "directors":[
+      "Curry Barker"
+    ],
+    "release_date":"2026-05-13",
+    "runtime_minutes":109,
+    "genres":[
+      "Horror",
+      "Thriller"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":98.6971,
+    "budget":750000,
+    "revenue":525024384,
+    "release_year":"2026",
+    "profit":524274384
+  },
+  {
+    "id":1204680,
+    "title":"Coyote vs. Acme",
+    "vote_avg":8.232,
+    "vote_count":1368,
+    "directors":[
+      "Dave Green"
+    ],
+    "release_date":"2026-08-20",
+    "runtime_minutes":103,
+    "genres":[
+      "Comedy",
+      "Adventure",
+      "Family",
+      "Animation"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":94.9972,
+    "budget":72000000,
+    "revenue":101528842,
+    "release_year":"2026",
+    "profit":29528842
+  },
+  {
+    "id":1465063,
+    "title":"Forgotten Island",
+    "vote_avg":8.007,
+    "vote_count":211,
+    "directors":[
+      "Januel Mercado",
+      "Joel Crawford"
+    ],
+    "release_date":"2026-09-10",
+    "runtime_minutes":109,
+    "genres":[
+      "Animation",
+      "Adventure",
+      "Fantasy",
+      "Comedy",
+      "Family"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":86.5027,
+    "budget":80000000,
+    "revenue":74824370,
+    "release_year":"2026",
+    "profit":-5175630
+  },
+  {
+    "id":1288445,
+    "title":"Mutiny",
+    "vote_avg":7.636,
+    "vote_count":1035,
+    "directors":[
+      "Jean-Fran\u00e7ois Richet"
+    ],
+    "release_date":"2026-08-19",
+    "runtime_minutes":96,
+    "genres":[
+      "Action",
+      "Thriller"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":80.0223,
+    "budget":40000000,
+    "revenue":20824283,
+    "release_year":"2026",
+    "profit":-19175717
+  },
+  {
+    "id":1302904,
+    "title":"Practical Magic 2",
+    "vote_avg":7.215,
+    "vote_count":368,
+    "directors":[
+      "Susanne Bier"
+    ],
+    "release_date":"2026-09-09",
+    "runtime_minutes":130,
+    "genres":[
+      "Romance",
+      "Fantasy",
+      "Comedy"
+    ],
+    "franchise":"Practical Magic Collection",
+    "franchise_id":1354706.0,
+    "popularity":78.2906,
+    "budget":75000000,
+    "revenue":105690022,
+    "release_year":"2026",
+    "profit":30690022
+  },
+  {
+    "id":1084244,
+    "title":"Toy Story 5",
+    "vote_avg":8.278,
+    "vote_count":2816,
+    "directors":[
+      "Andrew Stanton"
+    ],
+    "release_date":"2026-06-17",
+    "runtime_minutes":102,
+    "genres":[
+      "Animation",
+      "Family",
+      "Comedy",
+      "Adventure"
+    ],
+    "franchise":"Toy Story Collection",
+    "franchise_id":10194.0,
+    "popularity":74.3201,
+    "budget":250000000,
+    "revenue":1148032461,
+    "release_year":"2026",
+    "profit":898032461
+  },
+  {
+    "id":1400837,
+    "title":"Other Mommy",
+    "vote_avg":5.771,
+    "vote_count":192,
+    "directors":[
+      "Rob Savage"
+    ],
+    "release_date":"2026-10-07",
+    "runtime_minutes":93,
+    "genres":[
+      "Horror"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":71.823,
+    "budget":18000000,
+    "revenue":109694241,
+    "release_year":"2026",
+    "profit":91694241
+  },
+  {
+    "id":1153576,
+    "title":"Street Fighter",
+    "vote_avg":6.332,
+    "vote_count":217,
+    "directors":[
+      "Kitao Sakurai"
+    ],
+    "release_date":"2026-10-13",
+    "runtime_minutes":120,
+    "genres":[
+      "Action",
+      "Fantasy"
+    ],
+    "franchise":null,
+    "franchise_id":null,
+    "popularity":70.4893,
+    "budget":82000000,
+    "revenue":91912121,
+    "release_year":"2026",
+    "profit":9912121
+  }
+]

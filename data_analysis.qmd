@@ -1,0 +1,101 @@
+```{python}
+import pandas as pd
+import matplotlib.pyplot as plt
+
+data = pd.read_json("data/movies_clean.json")
+```
+
+```{python}
+cleaned_data = data.copy()
+print(len(cleaned_data))
+```
+
+```{python}
+# defining pre, during, and post covid years
+pre_covid_mask = cleaned_data["release_year"].between(2017, 2019)
+covid_mask = cleaned_data["release_year"].between(2020, 2023)
+post_covid_mask = cleaned_data["release_year"].between(2024, 2026)
+
+pre_covid_movies = cleaned_data[pre_covid_mask]
+covid_movies = cleaned_data[covid_mask]
+post_covid_movies = cleaned_data[post_covid_mask]
+```
+
+
+```{python}
+# getting box plot of avg movie ratings
+combined = pd.concat([
+    pre_covid_movies.assign(Time='pre_covid'),
+    covid_movies.assign(Time='covid'),
+    post_covid_movies.assign(Time='post_covid')
+])
+
+combined.boxplot(by='Time', column=["vote_avg"])
+plt.title("Movie Level Average Ratings Across Time")
+plt.ylabel("Movie Level Average Rating")
+plt.savefig("movie_rating_avg_across_time")
+```
+
+```{python}
+# getting medians of movie rating avg
+print(pre_covid_movies["vote_avg"].median(), covid_movies["vote_avg"].median(), post_covid_movies["vote_avg"].median())
+```
+
+```{python}
+# getting movie counts in each time period
+print(len(pre_covid_movies), len(covid_movies), len(post_covid_movies))
+
+# getting line plot of revenue
+plt.clf()
+revenue_data = cleaned_data.loc[cleaned_data["release_year"].between(2017, 2025)].groupby("release_year").agg(med_revenue=("revenue", "median"))
+revenue_data.plot.line()
+plt.ylabel("Median Movie Revenue")
+plt.title("Median Movie Revenue Across 2017-2025")
+plt.savefig("revenue_line_plot")
+
+```
+
+```{python}
+plt.clf()
+# splitting movies with multiple genres into a row for each genre then counting total movies with each genre
+genre_data = cleaned_data.explode("genres").dropna(subset=["genres"])
+genre_counts = genre_data.groupby(["release_year", "genres"]).size().rename("movie_count").reset_index()
+
+# getting new masks to isolate movies in each time period
+genre_pre_covid_mask = genre_counts["release_year"].between(2017, 2019)
+genre_covid_mask = genre_counts["release_year"].between(2020, 2023)
+genre_post_covid_mask = genre_counts["release_year"].between(2024, 2026)
+
+# getting number of movies in each tme period
+pre_size = cleaned_data.loc[pre_covid_mask, "id"].nunique()
+covid_size = cleaned_data.loc[covid_mask, "id"].nunique()
+post_size = cleaned_data.loc[post_covid_mask, "id"].nunique()
+
+# making a period column
+genre_counts["period"] = pd.NA
+genre_counts.loc[genre_pre_covid_mask, "period"] = "pre_covid"
+genre_counts.loc[genre_covid_mask, "period"] = "covid"
+genre_counts.loc[genre_post_covid_mask, "period"] = "post_covid"
+
+# using dictionary to make percentage calculation easier
+period_sizes = {"pre_covid": pre_size,
+                "covid": covid_size,
+                "post_covid": post_size
+                }
+
+# getting total movies for each time period genre combo
+period_genres = (genre_counts.groupby(["period", "genres"], as_index=False)["movie_count"].sum())
+
+# dividing by size of mapped time period
+period_genres["percent_of_movies"] = (period_genres["movie_count"] / period_genres["period"].map(period_sizes) * 100)
+
+# plotting
+genre_plot_data = period_genres.pivot(index="genres", columns="period", values="percent_of_movies").fillna(0)
+genre_plot_data.plot.bar()
+plt.title("Genre Counts Before, During, and After COVID")
+plt.ylabel("Percentages")
+plt.tight_layout()
+plt.savefig("genres_by_period")
+
+print(period_genres)
+```
